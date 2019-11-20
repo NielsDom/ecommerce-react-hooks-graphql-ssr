@@ -1,5 +1,7 @@
 # Apollo-graphql boiler
 
+Next.js, SSR, GraphQl, Apollo, Hooks, Redux, Material-UI and Mui-Treasury(https://mui-treasury.com/)
+
 ### http://localhost:4000/
 
 ##### Get all:
