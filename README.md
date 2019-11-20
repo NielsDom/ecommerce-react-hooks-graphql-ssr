@@ -1,9 +1,9 @@
-# Apollo-graphql boiler
+# React Ecommerce GraphQl
 
 Next.js, SSR, GraphQl, Apollo, Hooks, Material-UI and Mui-Treasury(https://mui-treasury.com/)<br/>
 
-Phase 1: Hardcoded DB + Apollo state management
-Phase 2: Node & MongoDB
+Phase 1: Hardcoded DB + Apollo state management<br/>
+Phase 2: Node & MongoDB<br/>
 Phase 3: Deployment + PWA
 
 ### http://localhost:4000/
