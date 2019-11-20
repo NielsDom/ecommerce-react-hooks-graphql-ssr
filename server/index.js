@@ -195,19 +195,22 @@ const db = {
     {
       id: "1",
       productId: "1",
-      body: "Hello",
+      message: "Hello",
+      rating: 1,
       createdAt: Date.now()
     },
     {
       id: "2",
       productId: "2",
-      body: "Hello2",
+      rating: 5,
+      message: "Hello2",
       createdAt: Date.now()
     },
     {
       id: "3",
       productId: "1",
-      body: "Hello3",
+      rating: 2,
+      message: "Hello3",
       createdAt: Date.now()
     }
   ]
@@ -228,12 +231,14 @@ const typeDefs = gql`
     id: ID!
     title: String!
     picture: String
+    description: String
     comments: [Comment!]!
   }
 
   type Comment {
     id: ID!
-    body: String!
+    message: String!
+    rating: Int
     createdAt: String
   }
 `

@@ -2,63 +2,79 @@
 
 ### http://localhost:3000/graphql
 
-##### Get all users: 
+##### Get all:
 
 ```
 {
-  users {
-    id,
-    email
+  products {
+    id
+    title
+    picture
+    description
   }
 }
 ```
 
-##### Get specific user:
+##### Get one:
 
 ```
+
 {
-  user(id: "1") {
-    email,
-    name
+  products(id: "1") {
+    id
+    title
+    picture
+    description
   }
 }
 ```
+
 Or
 
 ```
-query getUser($id: ID!) {
-  user(id: $id){
-    email
-    name
+query getProducts($id: ID!) {
+  product(id: $id){
+    id
+    title
+    picture
+    description
   }
 }
 ```
+
 Variable ->
+
 ```
 {
   "id": "2"
 }
 ```
 
-##### Add user:
+##### Add:
 
 ```
 mutation {
-  addUser(email: "jambon@fefe.com") {
-    id,
-    email,
-    name
+  addProduct(description: "jambon@fefe.com", title: "title", picture: "picture link") {
+    description,
+    title,
+    picture
   }
 }
 ```
 
-##### Get users crossed queries:
+##### crossed queries:
+
 ```
 {
-  users {
-    email
-    messages {
-      body
+  products {
+    id
+    title
+    picture
+    description
+    comments {
+      id
+      message
+      rating
     }
   }
 }
