@@ -1,0 +1,9 @@
+/client/node_modules
+/client/yarn.lock
+/client/.next/
+/client/build
+/client/.DS_Store
+/client/out/
+
+/server/node_modules
+/server/yarn.lock
