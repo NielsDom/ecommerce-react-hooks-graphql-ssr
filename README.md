@@ -1,6 +1,6 @@
 # Apollo-graphql boiler
 
-### http://localhost:3000/graphql
+### http://localhost:4000/
 
 ##### Get all:
 
