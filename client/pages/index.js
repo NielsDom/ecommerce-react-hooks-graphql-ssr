@@ -1,5 +1,4 @@
 import React, { useEffect } from "react"
-import Head from "next/head"
 import { withApollo } from "../lib/apollo"
 import gql from "graphql-tag"
 import { useQuery } from "@apollo/react-hooks"
@@ -32,9 +31,11 @@ const Home = () => {
   if (loading) return <div>Loading</div>
   return (
     <div>
-      {data.products.map(x => (
-        <div key={x.id}>{x.title}</div>
-      ))}
+      <div>
+        {data.products.map(x => (
+          <div key={x.id}>{x.title}</div>
+        ))}
+      </div>
     </div>
   )
 }
