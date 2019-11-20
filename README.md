@@ -1,6 +1,9 @@
 # Apollo-graphql boiler
 
-Next.js, SSR, GraphQl, Apollo, Hooks, Redux, Material-UI and Mui-Treasury(https://mui-treasury.com/)
+Next.js, SSR, GraphQl, Apollo, Hooks, Material-UI and Mui-Treasury(https://mui-treasury.com/)
+|
+Phase 1: Hardcoded DB + Apollo state management
+Phase 2: Node & MongoDB
 
 ### http://localhost:4000/
 
