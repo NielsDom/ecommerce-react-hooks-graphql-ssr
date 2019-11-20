@@ -1,5 +1,5 @@
 Arguments: 
-  C:\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add @material-ui/icons/KeyboardArrowRight
+  C:\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add @mui-treasury/
 
 PATH: 
   C:\Users\nielsd\Downloads\cmder\vendor\conemu-maximus5\ConEmu\Scripts;C:\Users\nielsd\Downloads\cmder\vendor\conemu-maximus5\ConEmu\Scripts;C:\Users\nielsd\Downloads\cmder\bin;C:\Users\nielsd\Downloads\cmder\vendor\bin;C:\Users\nielsd\Downloads\cmder\vendor\conemu-maximus5\ConEmu\Scripts;C:\Users\nielsd\Downloads\cmder\vendor\conemu-maximus5;C:\Users\nielsd\Downloads\cmder\vendor\conemu-maximus5\ConEmu;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Python27\;C:\Python27\Scripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\nodejs\;C:\Program Files (x86)\Yarn\bin\;C:\ProgramData\chocolatey\bin;C:\Program Files\Java\jdk1.8.0_221\bin;c:\Users\nielsd\AppData\Local\Android\Sdk\platform-tools;C:\PuTTY\;C:\Users\nielsd\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\nielsd\AppData\Local\Programs\Python\Python37-32\;C:\Users\nielsd\AppData\Local\Microsoft\WindowsApps;C:\Microsoft VS Code\bin;C:\Users\nielsd\AppData\Roaming\npm;C:\Users\nielsd\AppData\Local\Yarn\bin;C:\Program Files\MongoDB\Server\4.2\bin;C:\heroku\bin;C:\Users\nielsd\Downloads\cmder\vendor\git-for-windows\cmd;C:\Users\nielsd\Downloads\cmder\vendor\git-for-windows\mingw64\bin;C:\Users\nielsd\Downloads\cmder\vendor\git-for-windows\usr\bin;C:\Users\nielsd\Downloads\cmder
@@ -14,7 +14,7 @@ Platform:
   win32 x64
 
 Trace: 
-  Error: https://registry.npmjs.org/@material-ui%2ficons/KeyboardArrowRight: Request "https://registry.npmjs.org/@material-ui%2ficons/KeyboardArrowRight" returned a 405
+  Error: https://registry.npmjs.org/@mui-treasury%2f: Request "https://registry.npmjs.org/@mui-treasury%2f" returned a 405
       at Request.params.callback [as _callback] (C:\Program Files (x86)\Yarn\lib\cli.js:66044:18)
       at Request.self.callback (C:\Program Files (x86)\Yarn\lib\cli.js:140564:22)
       at Request.emit (events.js:198:13)
