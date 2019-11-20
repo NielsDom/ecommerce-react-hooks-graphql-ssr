@@ -4,6 +4,7 @@ Next.js, SSR, GraphQl, Apollo, Hooks, Material-UI and Mui-Treasury(https://mui-t
 |
 Phase 1: Hardcoded DB + Apollo state management\
 Phase 2: Node & MongoDB
+Phase 3: Deployment + PWA
 
 ### http://localhost:4000/
 
