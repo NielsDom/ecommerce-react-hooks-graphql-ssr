@@ -6,8 +6,16 @@ import { useQuery } from "@apollo/react-hooks"
 
 const GET_EMAIL = gql`
   {
-    users {
-      email
+    products {
+      id
+      title
+      picture
+      description
+      comments {
+        id
+        message
+        rating
+      }
     }
   }
 `
@@ -24,8 +32,8 @@ const Home = () => {
   if (loading) return <div>Loading</div>
   return (
     <div>
-      {data.users.map(x => (
-        <div key={x.id}>{x.email}</div>
+      {data.products.map(x => (
+        <div key={x.id}>{x.title}</div>
       ))}
     </div>
   )
