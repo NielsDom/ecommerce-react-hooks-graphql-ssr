@@ -1,12 +1,12 @@
-{
-  "products": [
+[
+  [
     {
       "category": "3",
       "description": "description for product1",
       "id": "1",
       "picture": "https://source.unsplash.com/random",
       "price": 6181,
-      "colors": ["gray", "green", "orange", "cyan", "black", "yellow"],
+      "size": ["gray", "green", "orange", "cyan", "black", "yellow"],
       "subcategory": "3-4",
       "title": "product1"
     },
@@ -16,7 +16,7 @@
       "id": "2",
       "picture": "https://source.unsplash.com/random",
       "price": 2623,
-      "colors": ["green", "gray", "yellow", "white", "pink", "purple"],
+      "size": ["green", "gray", "yellow", "white", "pink", "purple"],
       "subcategory": "2-1",
       "title": "product2"
     },
@@ -26,7 +26,7 @@
       "id": "3",
       "picture": "https://source.unsplash.com/random",
       "price": 9174,
-      "colors": ["yellow", "white", "pink", "orange", "green"],
+      "size": ["yellow", "white", "pink", "orange", "green"],
       "subcategory": "3-2",
       "title": "product3"
     },
@@ -36,7 +36,7 @@
       "id": "4",
       "picture": "https://source.unsplash.com/random",
       "price": 1936,
-      "colors": ["black"],
+      "size": ["black"],
       "subcategory": "2-2",
       "title": "product4"
     },
@@ -46,7 +46,7 @@
       "id": "5",
       "picture": "https://source.unsplash.com/random",
       "price": 9862,
-      "colors": ["red", "green", "gray", "white", "orange", "pink", "yellow"],
+      "size": ["red", "green", "gray", "white", "orange", "pink", "yellow"],
       "subcategory": "3-4",
       "title": "product5"
     },
@@ -56,7 +56,7 @@
       "id": "6",
       "picture": "https://source.unsplash.com/random",
       "price": 8266,
-      "colors": ["yellow", "pink", "white"],
+      "size": ["yellow", "pink", "white"],
       "subcategory": "3-3",
       "title": "product6"
     },
@@ -66,7 +66,7 @@
       "id": "7",
       "picture": "https://source.unsplash.com/random",
       "price": 6460,
-      "colors": ["green", "gray", "black", "orange"],
+      "size": ["green", "gray", "black", "orange"],
       "subcategory": "3-1",
       "title": "product7"
     },
@@ -76,7 +76,7 @@
       "id": "8",
       "picture": "https://source.unsplash.com/random",
       "price": 1586,
-      "colors": ["white", "green", "pink"],
+      "size": ["white", "green", "pink"],
       "subcategory": "1-4",
       "title": "product8"
     },
@@ -86,7 +86,7 @@
       "id": "9",
       "picture": "https://source.unsplash.com/random",
       "price": 5179,
-      "colors": ["gray", "white", "black", "pink"],
+      "size": ["gray", "white", "black", "pink"],
       "subcategory": "1-1",
       "title": "product9"
     },
@@ -96,7 +96,7 @@
       "id": "10",
       "picture": "https://source.unsplash.com/random",
       "price": 4070,
-      "colors": ["pink", "green", "red", "cyan", "purple"],
+      "size": ["pink", "green", "red", "cyan", "purple"],
       "subcategory": "2-4",
       "title": "product10"
     },
@@ -106,7 +106,7 @@
       "id": "11",
       "picture": "https://source.unsplash.com/random",
       "price": 2470,
-      "colors": ["green", "orange", "white"],
+      "size": ["green", "orange", "white"],
       "subcategory": "2-3",
       "title": "product11"
     },
@@ -116,7 +116,7 @@
       "id": "12",
       "picture": "https://source.unsplash.com/random",
       "price": 6316,
-      "colors": ["black", "pink", "cyan", "green", "gray", "purple"],
+      "size": ["black", "pink", "cyan", "green", "gray", "purple"],
       "subcategory": "2-1",
       "title": "product12"
     },
@@ -126,7 +126,7 @@
       "id": "13",
       "picture": "https://source.unsplash.com/random",
       "price": 1159,
-      "colors": ["black", "red", "green", "white", "yellow", "cyan"],
+      "size": ["black", "red", "green", "white", "yellow", "cyan"],
       "subcategory": "1-2",
       "title": "product13"
     },
@@ -136,7 +136,7 @@
       "id": "14",
       "picture": "https://source.unsplash.com/random",
       "price": 5656,
-      "colors": ["green", "red", "purple", "white", "pink", "yellow"],
+      "size": ["green", "red", "purple", "white", "pink", "yellow"],
       "subcategory": "3-3",
       "title": "product14"
     },
@@ -146,7 +146,7 @@
       "id": "15",
       "picture": "https://source.unsplash.com/random",
       "price": 9392,
-      "colors": ["cyan", "orange", "pink"],
+      "size": ["cyan", "orange", "pink"],
       "subcategory": "1-4",
       "title": "product15"
     },
@@ -156,7 +156,7 @@
       "id": "16",
       "picture": "https://source.unsplash.com/random",
       "price": 2381,
-      "colors": ["yellow", "cyan", "red", "black", "white", "purple", "pink"],
+      "size": ["yellow", "cyan", "red", "black", "white", "purple", "pink"],
       "subcategory": "1-1",
       "title": "product16"
     },
@@ -166,7 +166,7 @@
       "id": "17",
       "picture": "https://source.unsplash.com/random",
       "price": 7088,
-      "colors": ["green", "cyan", "pink"],
+      "size": ["green", "cyan", "pink"],
       "subcategory": "3-2",
       "title": "product17"
     },
@@ -176,7 +176,7 @@
       "id": "18",
       "picture": "https://source.unsplash.com/random",
       "price": 9063,
-      "colors": ["purple", "cyan", "black", "gray", "pink"],
+      "size": ["purple", "cyan", "black", "gray", "pink"],
       "subcategory": "2-1",
       "title": "product18"
     },
@@ -186,7 +186,7 @@
       "id": "19",
       "picture": "https://source.unsplash.com/random",
       "price": 7072,
-      "colors": ["cyan", "yellow", "black", "pink"],
+      "size": ["cyan", "yellow", "black", "pink"],
       "subcategory": "2-4",
       "title": "product19"
     },
@@ -196,7 +196,7 @@
       "id": "20",
       "picture": "https://source.unsplash.com/random",
       "price": 7207,
-      "colors": ["red", "black", "orange", "white", "green", "pink", "gray"],
+      "size": ["red", "black", "orange", "white", "green", "pink", "gray"],
       "subcategory": "1-1",
       "title": "product20"
     },
@@ -206,7 +206,7 @@
       "id": "21",
       "picture": "https://source.unsplash.com/random",
       "price": 6039,
-      "colors": ["green", "red", "purple", "gray"],
+      "size": ["green", "red", "purple", "gray"],
       "subcategory": "2-4",
       "title": "product21"
     },
@@ -216,7 +216,7 @@
       "id": "22",
       "picture": "https://source.unsplash.com/random",
       "price": 9995,
-      "colors": ["black", "cyan", "orange", "purple"],
+      "size": ["black", "cyan", "orange", "purple"],
       "subcategory": "2-3",
       "title": "product22"
     },
@@ -226,7 +226,7 @@
       "id": "23",
       "picture": "https://source.unsplash.com/random",
       "price": 9159,
-      "colors": ["black"],
+      "size": ["black"],
       "subcategory": "2-2",
       "title": "product23"
     },
@@ -236,7 +236,7 @@
       "id": "24",
       "picture": "https://source.unsplash.com/random",
       "price": 3190,
-      "colors": ["pink", "red", "yellow", "cyan"],
+      "size": ["pink", "red", "yellow", "cyan"],
       "subcategory": "2-1",
       "title": "product24"
     },
@@ -246,7 +246,7 @@
       "id": "25",
       "picture": "https://source.unsplash.com/random",
       "price": 6320,
-      "colors": ["gray", "yellow", "white", "green", "cyan", "orange", "red"],
+      "size": ["gray", "yellow", "white", "green", "cyan", "orange", "red"],
       "subcategory": "1-3",
       "title": "product25"
     },
@@ -256,7 +256,7 @@
       "id": "26",
       "picture": "https://source.unsplash.com/random",
       "price": 2973,
-      "colors": ["purple", "orange", "pink", "black", "green"],
+      "size": ["purple", "orange", "pink", "black", "green"],
       "subcategory": "3-1",
       "title": "product26"
     },
@@ -266,7 +266,7 @@
       "id": "27",
       "picture": "https://source.unsplash.com/random",
       "price": 5627,
-      "colors": ["yellow"],
+      "size": ["yellow"],
       "subcategory": "1-1",
       "title": "product27"
     },
@@ -276,7 +276,7 @@
       "id": "28",
       "picture": "https://source.unsplash.com/random",
       "price": 4042,
-      "colors": ["green", "pink", "red", "black", "cyan", "purple", "orange"],
+      "size": ["green", "pink", "red", "black", "cyan", "purple", "orange"],
       "subcategory": "2-4",
       "title": "product28"
     },
@@ -286,7 +286,7 @@
       "id": "29",
       "picture": "https://source.unsplash.com/random",
       "price": 5965,
-      "colors": ["purple", "white", "red", "cyan", "gray", "yellow", "green"],
+      "size": ["purple", "white", "red", "cyan", "gray", "yellow", "green"],
       "subcategory": "2-3",
       "title": "product29"
     },
@@ -296,7 +296,7 @@
       "id": "30",
       "picture": "https://source.unsplash.com/random",
       "price": 7371,
-      "colors": ["purple", "gray", "orange", "black"],
+      "size": ["purple", "gray", "orange", "black"],
       "subcategory": "3-2",
       "title": "product30"
     },
@@ -306,7 +306,7 @@
       "id": "31",
       "picture": "https://source.unsplash.com/random",
       "price": 3506,
-      "colors": ["yellow", "green"],
+      "size": ["yellow", "green"],
       "subcategory": "3-3",
       "title": "product31"
     },
@@ -316,7 +316,7 @@
       "id": "32",
       "picture": "https://source.unsplash.com/random",
       "price": 1096,
-      "colors": ["orange", "cyan", "red", "green", "black", "gray"],
+      "size": ["orange", "cyan", "red", "green", "black", "gray"],
       "subcategory": "2-3",
       "title": "product32"
     },
@@ -326,7 +326,7 @@
       "id": "33",
       "picture": "https://source.unsplash.com/random",
       "price": 1161,
-      "colors": ["purple", "gray", "pink", "green", "orange", "white", "cyan"],
+      "size": ["purple", "gray", "pink", "green", "orange", "white", "cyan"],
       "subcategory": "1-4",
       "title": "product33"
     },
@@ -336,7 +336,7 @@
       "id": "34",
       "picture": "https://source.unsplash.com/random",
       "price": 4959,
-      "colors": ["gray", "white"],
+      "size": ["gray", "white"],
       "subcategory": "3-4",
       "title": "product34"
     },
@@ -346,7 +346,7 @@
       "id": "35",
       "picture": "https://source.unsplash.com/random",
       "price": 4389,
-      "colors": ["gray"],
+      "size": ["gray"],
       "subcategory": "1-3",
       "title": "product35"
     },
@@ -356,7 +356,7 @@
       "id": "36",
       "picture": "https://source.unsplash.com/random",
       "price": 8656,
-      "colors": ["green", "cyan", "yellow", "orange", "black", "red", "purple"],
+      "size": ["green", "cyan", "yellow", "orange", "black", "red", "purple"],
       "subcategory": "1-2",
       "title": "product36"
     },
@@ -366,7 +366,7 @@
       "id": "37",
       "picture": "https://source.unsplash.com/random",
       "price": 544,
-      "colors": ["pink", "white", "gray", "cyan"],
+      "size": ["pink", "white", "gray", "cyan"],
       "subcategory": "1-3",
       "title": "product37"
     },
@@ -376,7 +376,7 @@
       "id": "38",
       "picture": "https://source.unsplash.com/random",
       "price": 4480,
-      "colors": ["red", "black", "gray"],
+      "size": ["red", "black", "gray"],
       "subcategory": "1-2",
       "title": "product38"
     },
@@ -386,7 +386,7 @@
       "id": "39",
       "picture": "https://source.unsplash.com/random",
       "price": 684,
-      "colors": ["pink", "gray", "cyan", "orange", "red", "yellow"],
+      "size": ["pink", "gray", "cyan", "orange", "red", "yellow"],
       "subcategory": "1-3",
       "title": "product39"
     },
@@ -396,7 +396,7 @@
       "id": "40",
       "picture": "https://source.unsplash.com/random",
       "price": 3148,
-      "colors": ["gray", "green", "white", "red", "cyan", "orange"],
+      "size": ["gray", "green", "white", "red", "cyan", "orange"],
       "subcategory": "2-2",
       "title": "product40"
     },
@@ -406,7 +406,7 @@
       "id": "41",
       "picture": "https://source.unsplash.com/random",
       "price": 3837,
-      "colors": ["white", "yellow", "gray", "cyan", "orange", "pink"],
+      "size": ["white", "yellow", "gray", "cyan", "orange", "pink"],
       "subcategory": "1-4",
       "title": "product41"
     },
@@ -416,7 +416,7 @@
       "id": "42",
       "picture": "https://source.unsplash.com/random",
       "price": 1259,
-      "colors": ["black", "gray", "white", "cyan", "red", "green", "purple"],
+      "size": ["black", "gray", "white", "cyan", "red", "green", "purple"],
       "subcategory": "2-4",
       "title": "product42"
     },
@@ -426,7 +426,7 @@
       "id": "43",
       "picture": "https://source.unsplash.com/random",
       "price": 9492,
-      "colors": ["pink", "white", "red", "purple"],
+      "size": ["pink", "white", "red", "purple"],
       "subcategory": "3-1",
       "title": "product43"
     },
@@ -436,7 +436,7 @@
       "id": "44",
       "picture": "https://source.unsplash.com/random",
       "price": 1496,
-      "colors": ["green", "white", "yellow", "purple", "black", "pink", "red"],
+      "size": ["green", "white", "yellow", "purple", "black", "pink", "red"],
       "subcategory": "1-2",
       "title": "product44"
     },
@@ -446,7 +446,7 @@
       "id": "45",
       "picture": "https://source.unsplash.com/random",
       "price": 106,
-      "colors": [
+      "size": [
         "orange",
         "gray",
         "green",
@@ -465,7 +465,7 @@
       "id": "46",
       "picture": "https://source.unsplash.com/random",
       "price": 5148,
-      "colors": ["purple", "gray", "black", "cyan", "white"],
+      "size": ["purple", "gray", "black", "cyan", "white"],
       "subcategory": "1-2",
       "title": "product46"
     },
@@ -475,7 +475,7 @@
       "id": "47",
       "picture": "https://source.unsplash.com/random",
       "price": 291,
-      "colors": ["pink", "orange", "white"],
+      "size": ["pink", "orange", "white"],
       "subcategory": "2-1",
       "title": "product47"
     },
@@ -485,7 +485,7 @@
       "id": "48",
       "picture": "https://source.unsplash.com/random",
       "price": 8680,
-      "colors": ["red", "gray", "purple", "pink", "green", "orange"],
+      "size": ["red", "gray", "purple", "pink", "green", "orange"],
       "subcategory": "2-1",
       "title": "product48"
     },
@@ -495,7 +495,7 @@
       "id": "49",
       "picture": "https://source.unsplash.com/random",
       "price": 6317,
-      "colors": ["green", "orange"],
+      "size": ["green", "orange"],
       "subcategory": "1-3",
       "title": "product49"
     },
@@ -505,7 +505,7 @@
       "id": "50",
       "picture": "https://source.unsplash.com/random",
       "price": 5337,
-      "colors": ["green", "white", "black", "pink", "red"],
+      "size": ["green", "white", "black", "pink", "red"],
       "subcategory": "3-3",
       "title": "product50"
     },
@@ -515,7 +515,7 @@
       "id": "51",
       "picture": "https://source.unsplash.com/random",
       "price": 3836,
-      "colors": ["white", "black", "purple", "yellow", "pink"],
+      "size": ["white", "black", "purple", "yellow", "pink"],
       "subcategory": "2-4",
       "title": "product51"
     },
@@ -525,7 +525,7 @@
       "id": "52",
       "picture": "https://source.unsplash.com/random",
       "price": 1304,
-      "colors": ["black", "yellow"],
+      "size": ["black", "yellow"],
       "subcategory": "3-3",
       "title": "product52"
     },
@@ -535,7 +535,7 @@
       "id": "53",
       "picture": "https://source.unsplash.com/random",
       "price": 7988,
-      "colors": ["gray"],
+      "size": ["gray"],
       "subcategory": "2-2",
       "title": "product53"
     },
@@ -545,7 +545,7 @@
       "id": "54",
       "picture": "https://source.unsplash.com/random",
       "price": 8096,
-      "colors": ["red", "yellow", "green", "purple", "black"],
+      "size": ["red", "yellow", "green", "purple", "black"],
       "subcategory": "2-3",
       "title": "product54"
     },
@@ -555,7 +555,7 @@
       "id": "55",
       "picture": "https://source.unsplash.com/random",
       "price": 4913,
-      "colors": ["gray", "cyan"],
+      "size": ["gray", "cyan"],
       "subcategory": "3-2",
       "title": "product55"
     },
@@ -565,7 +565,7 @@
       "id": "56",
       "picture": "https://source.unsplash.com/random",
       "price": 5139,
-      "colors": ["purple", "pink"],
+      "size": ["purple", "pink"],
       "subcategory": "2-4",
       "title": "product56"
     },
@@ -575,7 +575,7 @@
       "id": "57",
       "picture": "https://source.unsplash.com/random",
       "price": 9713,
-      "colors": ["black", "red", "white"],
+      "size": ["black", "red", "white"],
       "subcategory": "3-3",
       "title": "product57"
     },
@@ -585,7 +585,7 @@
       "id": "58",
       "picture": "https://source.unsplash.com/random",
       "price": 6291,
-      "colors": ["pink", "yellow", "red"],
+      "size": ["pink", "yellow", "red"],
       "subcategory": "2-1",
       "title": "product58"
     },
@@ -595,7 +595,7 @@
       "id": "59",
       "picture": "https://source.unsplash.com/random",
       "price": 5443,
-      "colors": ["cyan"],
+      "size": ["cyan"],
       "subcategory": "2-2",
       "title": "product59"
     },
@@ -605,7 +605,7 @@
       "id": "60",
       "picture": "https://source.unsplash.com/random",
       "price": 8220,
-      "colors": ["orange", "green"],
+      "size": ["orange", "green"],
       "subcategory": "3-1",
       "title": "product60"
     },
@@ -615,7 +615,7 @@
       "id": "61",
       "picture": "https://source.unsplash.com/random",
       "price": 6651,
-      "colors": ["cyan", "pink", "yellow", "red", "gray", "purple"],
+      "size": ["cyan", "pink", "yellow", "red", "gray", "purple"],
       "subcategory": "3-4",
       "title": "product61"
     },
@@ -625,7 +625,7 @@
       "id": "62",
       "picture": "https://source.unsplash.com/random",
       "price": 1273,
-      "colors": ["red", "pink", "orange"],
+      "size": ["red", "pink", "orange"],
       "subcategory": "3-2",
       "title": "product62"
     },
@@ -635,7 +635,7 @@
       "id": "63",
       "picture": "https://source.unsplash.com/random",
       "price": 5497,
-      "colors": ["white", "purple", "green", "yellow"],
+      "size": ["white", "purple", "green", "yellow"],
       "subcategory": "1-3",
       "title": "product63"
     },
@@ -645,7 +645,7 @@
       "id": "64",
       "picture": "https://source.unsplash.com/random",
       "price": 3050,
-      "colors": ["green", "cyan", "gray", "black", "white", "purple", "red"],
+      "size": ["green", "cyan", "gray", "black", "white", "purple", "red"],
       "subcategory": "2-3",
       "title": "product64"
     },
@@ -655,7 +655,7 @@
       "id": "65",
       "picture": "https://source.unsplash.com/random",
       "price": 1478,
-      "colors": ["cyan", "orange", "green", "white"],
+      "size": ["cyan", "orange", "green", "white"],
       "subcategory": "3-2",
       "title": "product65"
     },
@@ -665,7 +665,7 @@
       "id": "66",
       "picture": "https://source.unsplash.com/random",
       "price": 2077,
-      "colors": ["gray", "purple", "yellow", "red", "black", "green"],
+      "size": ["gray", "purple", "yellow", "red", "black", "green"],
       "subcategory": "1-4",
       "title": "product66"
     },
@@ -675,7 +675,7 @@
       "id": "67",
       "picture": "https://source.unsplash.com/random",
       "price": 8254,
-      "colors": ["green", "pink"],
+      "size": ["green", "pink"],
       "subcategory": "2-2",
       "title": "product67"
     },
@@ -685,7 +685,7 @@
       "id": "68",
       "picture": "https://source.unsplash.com/random",
       "price": 6316,
-      "colors": ["cyan", "black", "pink", "green", "white"],
+      "size": ["cyan", "black", "pink", "green", "white"],
       "subcategory": "3-4",
       "title": "product68"
     },
@@ -695,7 +695,7 @@
       "id": "69",
       "picture": "https://source.unsplash.com/random",
       "price": 3976,
-      "colors": ["black", "red", "gray", "green", "purple"],
+      "size": ["black", "red", "gray", "green", "purple"],
       "subcategory": "2-4",
       "title": "product69"
     },
@@ -705,7 +705,7 @@
       "id": "70",
       "picture": "https://source.unsplash.com/random",
       "price": 2862,
-      "colors": ["red"],
+      "size": ["red"],
       "subcategory": "3-3",
       "title": "product70"
     },
@@ -715,7 +715,7 @@
       "id": "71",
       "picture": "https://source.unsplash.com/random",
       "price": 6280,
-      "colors": ["red", "yellow"],
+      "size": ["red", "yellow"],
       "subcategory": "3-2",
       "title": "product71"
     },
@@ -725,7 +725,7 @@
       "id": "72",
       "picture": "https://source.unsplash.com/random",
       "price": 3373,
-      "colors": ["black", "yellow", "cyan", "orange", "red"],
+      "size": ["black", "yellow", "cyan", "orange", "red"],
       "subcategory": "1-4",
       "title": "product72"
     },
@@ -735,7 +735,7 @@
       "id": "73",
       "picture": "https://source.unsplash.com/random",
       "price": 460,
-      "colors": ["orange", "red", "green", "purple", "black"],
+      "size": ["orange", "red", "green", "purple", "black"],
       "subcategory": "3-4",
       "title": "product73"
     },
@@ -745,7 +745,7 @@
       "id": "74",
       "picture": "https://source.unsplash.com/random",
       "price": 6449,
-      "colors": ["black", "pink"],
+      "size": ["black", "pink"],
       "subcategory": "1-4",
       "title": "product74"
     },
@@ -755,7 +755,7 @@
       "id": "75",
       "picture": "https://source.unsplash.com/random",
       "price": 8594,
-      "colors": ["black"],
+      "size": ["black"],
       "subcategory": "1-3",
       "title": "product75"
     },
@@ -765,7 +765,7 @@
       "id": "76",
       "picture": "https://source.unsplash.com/random",
       "price": 5168,
-      "colors": ["purple", "black"],
+      "size": ["purple", "black"],
       "subcategory": "2-1",
       "title": "product76"
     },
@@ -775,7 +775,7 @@
       "id": "77",
       "picture": "https://source.unsplash.com/random",
       "price": 3904,
-      "colors": ["green", "yellow", "black", "white", "red", "pink"],
+      "size": ["green", "yellow", "black", "white", "red", "pink"],
       "subcategory": "1-2",
       "title": "product77"
     },
@@ -785,7 +785,7 @@
       "id": "78",
       "picture": "https://source.unsplash.com/random",
       "price": 3579,
-      "colors": ["purple", "green", "gray"],
+      "size": ["purple", "green", "gray"],
       "subcategory": "2-3",
       "title": "product78"
     },
@@ -795,7 +795,7 @@
       "id": "79",
       "picture": "https://source.unsplash.com/random",
       "price": 3087,
-      "colors": ["black", "cyan", "yellow", "pink", "red", "gray"],
+      "size": ["black", "cyan", "yellow", "pink", "red", "gray"],
       "subcategory": "1-1",
       "title": "product79"
     },
@@ -805,7 +805,7 @@
       "id": "80",
       "picture": "https://source.unsplash.com/random",
       "price": 3477,
-      "colors": ["white", "black", "pink", "orange", "yellow", "cyan"],
+      "size": ["white", "black", "pink", "orange", "yellow", "cyan"],
       "subcategory": "1-2",
       "title": "product80"
     },
@@ -815,7 +815,7 @@
       "id": "81",
       "picture": "https://source.unsplash.com/random",
       "price": 9775,
-      "colors": ["purple", "yellow"],
+      "size": ["purple", "yellow"],
       "subcategory": "3-3",
       "title": "product81"
     },
@@ -825,7 +825,7 @@
       "id": "82",
       "picture": "https://source.unsplash.com/random",
       "price": 1243,
-      "colors": ["white"],
+      "size": ["white"],
       "subcategory": "3-4",
       "title": "product82"
     },
@@ -835,7 +835,7 @@
       "id": "83",
       "picture": "https://source.unsplash.com/random",
       "price": 4550,
-      "colors": [
+      "size": [
         "green",
         "yellow",
         "purple",
@@ -854,7 +854,7 @@
       "id": "84",
       "picture": "https://source.unsplash.com/random",
       "price": 4552,
-      "colors": ["yellow", "green"],
+      "size": ["yellow", "green"],
       "subcategory": "1-2",
       "title": "product84"
     },
@@ -864,7 +864,7 @@
       "id": "85",
       "picture": "https://source.unsplash.com/random",
       "price": 7065,
-      "colors": ["yellow", "green", "orange"],
+      "size": ["yellow", "green", "orange"],
       "subcategory": "2-4",
       "title": "product85"
     },
@@ -874,7 +874,7 @@
       "id": "86",
       "picture": "https://source.unsplash.com/random",
       "price": 8983,
-      "colors": ["yellow", "gray"],
+      "size": ["yellow", "gray"],
       "subcategory": "2-3",
       "title": "product86"
     },
@@ -884,7 +884,7 @@
       "id": "87",
       "picture": "https://source.unsplash.com/random",
       "price": 3404,
-      "colors": ["white", "pink", "purple", "cyan", "orange"],
+      "size": ["white", "pink", "purple", "cyan", "orange"],
       "subcategory": "1-1",
       "title": "product87"
     },
@@ -894,7 +894,7 @@
       "id": "88",
       "picture": "https://source.unsplash.com/random",
       "price": 8903,
-      "colors": ["red", "orange", "white", "gray"],
+      "size": ["red", "orange", "white", "gray"],
       "subcategory": "2-4",
       "title": "product88"
     },
@@ -904,7 +904,7 @@
       "id": "89",
       "picture": "https://source.unsplash.com/random",
       "price": 1215,
-      "colors": ["purple", "orange", "pink", "gray", "black"],
+      "size": ["purple", "orange", "pink", "gray", "black"],
       "subcategory": "3-3",
       "title": "product89"
     },
@@ -914,7 +914,7 @@
       "id": "90",
       "picture": "https://source.unsplash.com/random",
       "price": 3159,
-      "colors": ["purple", "orange", "black"],
+      "size": ["purple", "orange", "black"],
       "subcategory": "1-2",
       "title": "product90"
     },
@@ -924,7 +924,7 @@
       "id": "91",
       "picture": "https://source.unsplash.com/random",
       "price": 4973,
-      "colors": ["pink", "gray", "green", "orange"],
+      "size": ["pink", "gray", "green", "orange"],
       "subcategory": "3-1",
       "title": "product91"
     },
@@ -934,7 +934,7 @@
       "id": "92",
       "picture": "https://source.unsplash.com/random",
       "price": 2631,
-      "colors": ["red", "orange", "yellow", "green", "cyan"],
+      "size": ["red", "orange", "yellow", "green", "cyan"],
       "subcategory": "2-1",
       "title": "product92"
     },
@@ -944,7 +944,7 @@
       "id": "93",
       "picture": "https://source.unsplash.com/random",
       "price": 9912,
-      "colors": ["cyan", "red"],
+      "size": ["cyan", "red"],
       "subcategory": "3-1",
       "title": "product93"
     },
@@ -954,7 +954,7 @@
       "id": "94",
       "picture": "https://source.unsplash.com/random",
       "price": 1613,
-      "colors": ["black", "yellow", "white", "green", "red", "pink", "purple"],
+      "size": ["black", "yellow", "white", "green", "red", "pink", "purple"],
       "subcategory": "1-1",
       "title": "product94"
     },
@@ -964,7 +964,7 @@
       "id": "95",
       "picture": "https://source.unsplash.com/random",
       "price": 8904,
-      "colors": ["yellow", "orange", "pink", "green", "purple", "gray", "red"],
+      "size": ["yellow", "orange", "pink", "green", "purple", "gray", "red"],
       "subcategory": "1-1",
       "title": "product95"
     },
@@ -974,7 +974,7 @@
       "id": "96",
       "picture": "https://source.unsplash.com/random",
       "price": 2731,
-      "colors": ["green"],
+      "size": ["green"],
       "subcategory": "2-1",
       "title": "product96"
     },
@@ -984,7 +984,7 @@
       "id": "97",
       "picture": "https://source.unsplash.com/random",
       "price": 5098,
-      "colors": ["black"],
+      "size": ["black"],
       "subcategory": "1-2",
       "title": "product97"
     },
@@ -994,15 +994,7 @@
       "id": "98",
       "picture": "https://source.unsplash.com/random",
       "price": 4168,
-      "colors": [
-        "gray",
-        "purple",
-        "white",
-        "pink",
-        "yellow",
-        "green",
-        "orange"
-      ],
+      "size": ["gray", "purple", "white", "pink", "yellow", "green", "orange"],
       "subcategory": "1-1",
       "title": "product98"
     },
@@ -1012,7 +1004,7 @@
       "id": "99",
       "picture": "https://source.unsplash.com/random",
       "price": 2227,
-      "colors": ["red", "white", "cyan", "yellow", "gray"],
+      "size": ["red", "white", "cyan", "yellow", "gray"],
       "subcategory": "3-3",
       "title": "product99"
     },
@@ -1022,7 +1014,7 @@
       "id": "100",
       "picture": "https://source.unsplash.com/random",
       "price": 9485,
-      "colors": ["black", "white"],
+      "size": ["black", "white"],
       "subcategory": "3-1",
       "title": "product100"
     },
@@ -1032,7 +1024,7 @@
       "id": "101",
       "picture": "https://source.unsplash.com/random",
       "price": 6096,
-      "colors": ["red", "black", "yellow", "pink", "cyan", "green", "gray"],
+      "size": ["red", "black", "yellow", "pink", "cyan", "green", "gray"],
       "subcategory": "3-4",
       "title": "product101"
     },
@@ -1042,7 +1034,7 @@
       "id": "102",
       "picture": "https://source.unsplash.com/random",
       "price": 1664,
-      "colors": ["red", "gray", "purple", "green", "pink", "orange"],
+      "size": ["red", "gray", "purple", "green", "pink", "orange"],
       "subcategory": "3-3",
       "title": "product102"
     },
@@ -1052,7 +1044,7 @@
       "id": "103",
       "picture": "https://source.unsplash.com/random",
       "price": 6258,
-      "colors": ["red", "pink", "yellow", "gray"],
+      "size": ["red", "pink", "yellow", "gray"],
       "subcategory": "1-2",
       "title": "product103"
     },
@@ -1062,7 +1054,7 @@
       "id": "104",
       "picture": "https://source.unsplash.com/random",
       "price": 7214,
-      "colors": ["purple", "cyan", "pink", "red", "yellow", "green"],
+      "size": ["purple", "cyan", "pink", "red", "yellow", "green"],
       "subcategory": "3-4",
       "title": "product104"
     },
@@ -1072,7 +1064,7 @@
       "id": "105",
       "picture": "https://source.unsplash.com/random",
       "price": 1665,
-      "colors": ["black", "orange"],
+      "size": ["black", "orange"],
       "subcategory": "1-1",
       "title": "product105"
     },
@@ -1082,7 +1074,7 @@
       "id": "106",
       "picture": "https://source.unsplash.com/random",
       "price": 273,
-      "colors": ["cyan", "white", "yellow", "purple", "black", "gray"],
+      "size": ["cyan", "white", "yellow", "purple", "black", "gray"],
       "subcategory": "2-4",
       "title": "product106"
     },
@@ -1092,7 +1084,7 @@
       "id": "107",
       "picture": "https://source.unsplash.com/random",
       "price": 6271,
-      "colors": ["red", "purple", "white", "pink", "yellow"],
+      "size": ["red", "purple", "white", "pink", "yellow"],
       "subcategory": "2-2",
       "title": "product107"
     },
@@ -1102,7 +1094,7 @@
       "id": "108",
       "picture": "https://source.unsplash.com/random",
       "price": 5737,
-      "colors": ["white", "black", "gray", "purple"],
+      "size": ["white", "black", "gray", "purple"],
       "subcategory": "3-4",
       "title": "product108"
     },
@@ -1112,7 +1104,7 @@
       "id": "109",
       "picture": "https://source.unsplash.com/random",
       "price": 6128,
-      "colors": ["purple", "orange", "yellow", "gray", "green", "white"],
+      "size": ["purple", "orange", "yellow", "gray", "green", "white"],
       "subcategory": "1-1",
       "title": "product109"
     },
@@ -1122,7 +1114,7 @@
       "id": "110",
       "picture": "https://source.unsplash.com/random",
       "price": 8812,
-      "colors": ["orange", "pink", "purple", "white", "cyan", "yellow"],
+      "size": ["orange", "pink", "purple", "white", "cyan", "yellow"],
       "subcategory": "2-1",
       "title": "product110"
     },
@@ -1132,7 +1124,7 @@
       "id": "111",
       "picture": "https://source.unsplash.com/random",
       "price": 6618,
-      "colors": ["gray", "cyan", "purple", "pink", "black", "yellow"],
+      "size": ["gray", "cyan", "purple", "pink", "black", "yellow"],
       "subcategory": "3-1",
       "title": "product111"
     },
@@ -1142,7 +1134,7 @@
       "id": "112",
       "picture": "https://source.unsplash.com/random",
       "price": 7615,
-      "colors": ["purple"],
+      "size": ["purple"],
       "subcategory": "3-4",
       "title": "product112"
     },
@@ -1152,7 +1144,7 @@
       "id": "113",
       "picture": "https://source.unsplash.com/random",
       "price": 2069,
-      "colors": ["pink", "purple", "yellow", "orange"],
+      "size": ["pink", "purple", "yellow", "orange"],
       "subcategory": "3-3",
       "title": "product113"
     },
@@ -1162,7 +1154,7 @@
       "id": "114",
       "picture": "https://source.unsplash.com/random",
       "price": 5886,
-      "colors": ["green"],
+      "size": ["green"],
       "subcategory": "3-4",
       "title": "product114"
     },
@@ -1172,7 +1164,7 @@
       "id": "115",
       "picture": "https://source.unsplash.com/random",
       "price": 4843,
-      "colors": ["black", "orange", "cyan", "gray", "yellow"],
+      "size": ["black", "orange", "cyan", "gray", "yellow"],
       "subcategory": "1-4",
       "title": "product115"
     },
@@ -1182,7 +1174,7 @@
       "id": "116",
       "picture": "https://source.unsplash.com/random",
       "price": 9525,
-      "colors": ["pink"],
+      "size": ["pink"],
       "subcategory": "1-1",
       "title": "product116"
     },
@@ -1192,7 +1184,7 @@
       "id": "117",
       "picture": "https://source.unsplash.com/random",
       "price": 5240,
-      "colors": ["orange", "yellow", "purple", "cyan", "pink"],
+      "size": ["orange", "yellow", "purple", "cyan", "pink"],
       "subcategory": "2-1",
       "title": "product117"
     },
@@ -1202,7 +1194,7 @@
       "id": "118",
       "picture": "https://source.unsplash.com/random",
       "price": 1852,
-      "colors": ["yellow", "red", "green", "cyan", "gray", "purple", "white"],
+      "size": ["yellow", "red", "green", "cyan", "gray", "purple", "white"],
       "subcategory": "1-2",
       "title": "product118"
     },
@@ -1212,7 +1204,7 @@
       "id": "119",
       "picture": "https://source.unsplash.com/random",
       "price": 5282,
-      "colors": ["black", "orange", "white", "green", "pink", "yellow", "cyan"],
+      "size": ["black", "orange", "white", "green", "pink", "yellow", "cyan"],
       "subcategory": "1-2",
       "title": "product119"
     },
@@ -1222,7 +1214,7 @@
       "id": "120",
       "picture": "https://source.unsplash.com/random",
       "price": 657,
-      "colors": ["orange", "purple", "red", "gray"],
+      "size": ["orange", "purple", "red", "gray"],
       "subcategory": "1-4",
       "title": "product120"
     },
@@ -1232,7 +1224,7 @@
       "id": "121",
       "picture": "https://source.unsplash.com/random",
       "price": 9788,
-      "colors": ["white", "gray", "purple", "orange", "green"],
+      "size": ["white", "gray", "purple", "orange", "green"],
       "subcategory": "2-1",
       "title": "product121"
     },
@@ -1242,7 +1234,7 @@
       "id": "122",
       "picture": "https://source.unsplash.com/random",
       "price": 6534,
-      "colors": ["orange", "cyan", "red", "gray", "purple", "pink"],
+      "size": ["orange", "cyan", "red", "gray", "purple", "pink"],
       "subcategory": "2-4",
       "title": "product122"
     },
@@ -1252,7 +1244,7 @@
       "id": "123",
       "picture": "https://source.unsplash.com/random",
       "price": 9825,
-      "colors": ["cyan"],
+      "size": ["cyan"],
       "subcategory": "1-3",
       "title": "product123"
     },
@@ -1262,7 +1254,7 @@
       "id": "124",
       "picture": "https://source.unsplash.com/random",
       "price": 573,
-      "colors": ["orange", "gray"],
+      "size": ["orange", "gray"],
       "subcategory": "3-2",
       "title": "product124"
     },
@@ -1272,7 +1264,7 @@
       "id": "125",
       "picture": "https://source.unsplash.com/random",
       "price": 4590,
-      "colors": ["red", "orange", "cyan", "yellow", "gray", "black"],
+      "size": ["red", "orange", "cyan", "yellow", "gray", "black"],
       "subcategory": "3-4",
       "title": "product125"
     },
@@ -1282,7 +1274,7 @@
       "id": "126",
       "picture": "https://source.unsplash.com/random",
       "price": 5133,
-      "colors": ["white", "green", "cyan", "pink", "gray"],
+      "size": ["white", "green", "cyan", "pink", "gray"],
       "subcategory": "2-2",
       "title": "product126"
     },
@@ -1292,7 +1284,7 @@
       "id": "127",
       "picture": "https://source.unsplash.com/random",
       "price": 5550,
-      "colors": ["pink", "green"],
+      "size": ["pink", "green"],
       "subcategory": "1-3",
       "title": "product127"
     },
@@ -1302,7 +1294,7 @@
       "id": "128",
       "picture": "https://source.unsplash.com/random",
       "price": 4966,
-      "colors": ["black", "gray", "yellow", "cyan", "orange", "purple", "red"],
+      "size": ["black", "gray", "yellow", "cyan", "orange", "purple", "red"],
       "subcategory": "3-3",
       "title": "product128"
     },
@@ -1312,7 +1304,7 @@
       "id": "129",
       "picture": "https://source.unsplash.com/random",
       "price": 5496,
-      "colors": ["black", "white", "yellow", "red", "orange"],
+      "size": ["black", "white", "yellow", "red", "orange"],
       "subcategory": "2-2",
       "title": "product129"
     },
@@ -1322,7 +1314,7 @@
       "id": "130",
       "picture": "https://source.unsplash.com/random",
       "price": 6367,
-      "colors": [
+      "size": [
         "cyan",
         "green",
         "orange",
@@ -1341,7 +1333,7 @@
       "id": "131",
       "picture": "https://source.unsplash.com/random",
       "price": 3419,
-      "colors": ["white"],
+      "size": ["white"],
       "subcategory": "1-2",
       "title": "product131"
     },
@@ -1351,7 +1343,7 @@
       "id": "132",
       "picture": "https://source.unsplash.com/random",
       "price": 3627,
-      "colors": ["purple", "gray", "black", "white"],
+      "size": ["purple", "gray", "black", "white"],
       "subcategory": "1-3",
       "title": "product132"
     },
@@ -1361,7 +1353,7 @@
       "id": "133",
       "picture": "https://source.unsplash.com/random",
       "price": 4098,
-      "colors": ["red"],
+      "size": ["red"],
       "subcategory": "2-1",
       "title": "product133"
     },
@@ -1371,7 +1363,7 @@
       "id": "134",
       "picture": "https://source.unsplash.com/random",
       "price": 7745,
-      "colors": ["orange", "green"],
+      "size": ["orange", "green"],
       "subcategory": "1-2",
       "title": "product134"
     },
@@ -1381,7 +1373,7 @@
       "id": "135",
       "picture": "https://source.unsplash.com/random",
       "price": 8424,
-      "colors": [
+      "size": [
         "green",
         "cyan",
         "white",
@@ -1400,7 +1392,7 @@
       "id": "136",
       "picture": "https://source.unsplash.com/random",
       "price": 5088,
-      "colors": ["red", "black", "cyan"],
+      "size": ["red", "black", "cyan"],
       "subcategory": "3-2",
       "title": "product136"
     },
@@ -1410,7 +1402,7 @@
       "id": "137",
       "picture": "https://source.unsplash.com/random",
       "price": 2502,
-      "colors": ["black", "pink", "cyan"],
+      "size": ["black", "pink", "cyan"],
       "subcategory": "2-1",
       "title": "product137"
     },
@@ -1420,7 +1412,7 @@
       "id": "138",
       "picture": "https://source.unsplash.com/random",
       "price": 5980,
-      "colors": ["black", "yellow"],
+      "size": ["black", "yellow"],
       "subcategory": "1-4",
       "title": "product138"
     },
@@ -1430,7 +1422,7 @@
       "id": "139",
       "picture": "https://source.unsplash.com/random",
       "price": 939,
-      "colors": ["gray"],
+      "size": ["gray"],
       "subcategory": "2-3",
       "title": "product139"
     },
@@ -1440,7 +1432,7 @@
       "id": "140",
       "picture": "https://source.unsplash.com/random",
       "price": 4948,
-      "colors": ["pink", "cyan", "black", "purple"],
+      "size": ["pink", "cyan", "black", "purple"],
       "subcategory": "2-1",
       "title": "product140"
     },
@@ -1450,7 +1442,7 @@
       "id": "141",
       "picture": "https://source.unsplash.com/random",
       "price": 9698,
-      "colors": ["gray", "cyan", "green", "white"],
+      "size": ["gray", "cyan", "green", "white"],
       "subcategory": "3-4",
       "title": "product141"
     },
@@ -1460,7 +1452,7 @@
       "id": "142",
       "picture": "https://source.unsplash.com/random",
       "price": 4244,
-      "colors": ["cyan", "pink", "red", "purple"],
+      "size": ["cyan", "pink", "red", "purple"],
       "subcategory": "1-4",
       "title": "product142"
     },
@@ -1470,7 +1462,7 @@
       "id": "143",
       "picture": "https://source.unsplash.com/random",
       "price": 1379,
-      "colors": ["yellow", "black", "gray", "green"],
+      "size": ["yellow", "black", "gray", "green"],
       "subcategory": "2-4",
       "title": "product143"
     },
@@ -1480,7 +1472,7 @@
       "id": "144",
       "picture": "https://source.unsplash.com/random",
       "price": 4096,
-      "colors": ["red", "yellow", "green"],
+      "size": ["red", "yellow", "green"],
       "subcategory": "2-2",
       "title": "product144"
     },
@@ -1490,7 +1482,7 @@
       "id": "145",
       "picture": "https://source.unsplash.com/random",
       "price": 3050,
-      "colors": ["white", "gray", "pink", "cyan", "orange"],
+      "size": ["white", "gray", "pink", "cyan", "orange"],
       "subcategory": "3-1",
       "title": "product145"
     },
@@ -1500,7 +1492,7 @@
       "id": "146",
       "picture": "https://source.unsplash.com/random",
       "price": 8318,
-      "colors": ["white", "orange", "purple"],
+      "size": ["white", "orange", "purple"],
       "subcategory": "2-2",
       "title": "product146"
     },
@@ -1510,7 +1502,7 @@
       "id": "147",
       "picture": "https://source.unsplash.com/random",
       "price": 6436,
-      "colors": [
+      "size": [
         "purple",
         "yellow",
         "black",
@@ -1529,7 +1521,7 @@
       "id": "148",
       "picture": "https://source.unsplash.com/random",
       "price": 6848,
-      "colors": ["red", "gray", "orange", "purple", "pink", "green"],
+      "size": ["red", "gray", "orange", "purple", "pink", "green"],
       "subcategory": "1-3",
       "title": "product148"
     },
@@ -1539,7 +1531,7 @@
       "id": "149",
       "picture": "https://source.unsplash.com/random",
       "price": 818,
-      "colors": ["orange", "white", "black", "purple"],
+      "size": ["orange", "white", "black", "purple"],
       "subcategory": "1-1",
       "title": "product149"
     },
@@ -1549,7 +1541,7 @@
       "id": "150",
       "picture": "https://source.unsplash.com/random",
       "price": 7685,
-      "colors": ["orange", "yellow", "black", "pink"],
+      "size": ["orange", "yellow", "black", "pink"],
       "subcategory": "1-3",
       "title": "product150"
     },
@@ -1559,7 +1551,7 @@
       "id": "151",
       "picture": "https://source.unsplash.com/random",
       "price": 6516,
-      "colors": ["cyan", "white"],
+      "size": ["cyan", "white"],
       "subcategory": "2-1",
       "title": "product151"
     },
@@ -1569,7 +1561,7 @@
       "id": "152",
       "picture": "https://source.unsplash.com/random",
       "price": 3946,
-      "colors": ["green", "pink", "cyan", "white", "yellow"],
+      "size": ["green", "pink", "cyan", "white", "yellow"],
       "subcategory": "2-2",
       "title": "product152"
     },
@@ -1579,7 +1571,7 @@
       "id": "153",
       "picture": "https://source.unsplash.com/random",
       "price": 4635,
-      "colors": ["black", "pink", "orange", "green", "gray"],
+      "size": ["black", "pink", "orange", "green", "gray"],
       "subcategory": "2-3",
       "title": "product153"
     },
@@ -1589,7 +1581,7 @@
       "id": "154",
       "picture": "https://source.unsplash.com/random",
       "price": 5884,
-      "colors": ["pink", "red", "green", "gray", "cyan", "purple"],
+      "size": ["pink", "red", "green", "gray", "cyan", "purple"],
       "subcategory": "1-4",
       "title": "product154"
     },
@@ -1599,7 +1591,7 @@
       "id": "155",
       "picture": "https://source.unsplash.com/random",
       "price": 5148,
-      "colors": ["black", "gray", "white"],
+      "size": ["black", "gray", "white"],
       "subcategory": "2-3",
       "title": "product155"
     },
@@ -1609,7 +1601,7 @@
       "id": "156",
       "picture": "https://source.unsplash.com/random",
       "price": 2350,
-      "colors": ["black", "pink", "cyan", "white", "purple", "orange"],
+      "size": ["black", "pink", "cyan", "white", "purple", "orange"],
       "subcategory": "2-4",
       "title": "product156"
     },
@@ -1619,7 +1611,7 @@
       "id": "157",
       "picture": "https://source.unsplash.com/random",
       "price": 1630,
-      "colors": ["purple", "gray", "green"],
+      "size": ["purple", "gray", "green"],
       "subcategory": "2-3",
       "title": "product157"
     },
@@ -1629,7 +1621,7 @@
       "id": "158",
       "picture": "https://source.unsplash.com/random",
       "price": 7695,
-      "colors": ["black", "white", "red"],
+      "size": ["black", "white", "red"],
       "subcategory": "1-1",
       "title": "product158"
     },
@@ -1639,7 +1631,7 @@
       "id": "159",
       "picture": "https://source.unsplash.com/random",
       "price": 9315,
-      "colors": ["purple", "red", "pink", "orange"],
+      "size": ["purple", "red", "pink", "orange"],
       "subcategory": "1-2",
       "title": "product159"
     },
@@ -1649,7 +1641,7 @@
       "id": "160",
       "picture": "https://source.unsplash.com/random",
       "price": 3937,
-      "colors": ["cyan", "black", "red", "gray", "purple"],
+      "size": ["cyan", "black", "red", "gray", "purple"],
       "subcategory": "2-1",
       "title": "product160"
     },
@@ -1659,7 +1651,7 @@
       "id": "161",
       "picture": "https://source.unsplash.com/random",
       "price": 1129,
-      "colors": ["purple", "yellow", "orange"],
+      "size": ["purple", "yellow", "orange"],
       "subcategory": "3-3",
       "title": "product161"
     },
@@ -1669,7 +1661,7 @@
       "id": "162",
       "picture": "https://source.unsplash.com/random",
       "price": 399,
-      "colors": ["yellow", "white", "purple", "orange", "green"],
+      "size": ["yellow", "white", "purple", "orange", "green"],
       "subcategory": "3-3",
       "title": "product162"
     },
@@ -1679,7 +1671,7 @@
       "id": "163",
       "picture": "https://source.unsplash.com/random",
       "price": 5434,
-      "colors": ["purple", "pink", "cyan"],
+      "size": ["purple", "pink", "cyan"],
       "subcategory": "3-2",
       "title": "product163"
     },
@@ -1689,7 +1681,7 @@
       "id": "164",
       "picture": "https://source.unsplash.com/random",
       "price": 7625,
-      "colors": ["black", "purple", "cyan", "red", "green"],
+      "size": ["black", "purple", "cyan", "red", "green"],
       "subcategory": "2-1",
       "title": "product164"
     },
@@ -1699,7 +1691,7 @@
       "id": "165",
       "picture": "https://source.unsplash.com/random",
       "price": 562,
-      "colors": ["green", "white", "cyan", "gray", "pink", "yellow"],
+      "size": ["green", "white", "cyan", "gray", "pink", "yellow"],
       "subcategory": "3-4",
       "title": "product165"
     },
@@ -1709,7 +1701,7 @@
       "id": "166",
       "picture": "https://source.unsplash.com/random",
       "price": 7356,
-      "colors": ["gray", "cyan", "white", "purple", "pink", "yellow"],
+      "size": ["gray", "cyan", "white", "purple", "pink", "yellow"],
       "subcategory": "2-3",
       "title": "product166"
     },
@@ -1719,7 +1711,7 @@
       "id": "167",
       "picture": "https://source.unsplash.com/random",
       "price": 2523,
-      "colors": ["black", "purple", "orange", "cyan", "red", "yellow", "gray"],
+      "size": ["black", "purple", "orange", "cyan", "red", "yellow", "gray"],
       "subcategory": "3-2",
       "title": "product167"
     },
@@ -1729,7 +1721,7 @@
       "id": "168",
       "picture": "https://source.unsplash.com/random",
       "price": 7028,
-      "colors": ["pink"],
+      "size": ["pink"],
       "subcategory": "2-4",
       "title": "product168"
     },
@@ -1739,7 +1731,7 @@
       "id": "169",
       "picture": "https://source.unsplash.com/random",
       "price": 1250,
-      "colors": ["gray", "red"],
+      "size": ["gray", "red"],
       "subcategory": "2-4",
       "title": "product169"
     },
@@ -1749,7 +1741,7 @@
       "id": "170",
       "picture": "https://source.unsplash.com/random",
       "price": 3181,
-      "colors": ["green", "orange"],
+      "size": ["green", "orange"],
       "subcategory": "1-3",
       "title": "product170"
     },
@@ -1759,7 +1751,7 @@
       "id": "171",
       "picture": "https://source.unsplash.com/random",
       "price": 3123,
-      "colors": ["purple", "pink", "orange", "cyan", "black", "white", "red"],
+      "size": ["purple", "pink", "orange", "cyan", "black", "white", "red"],
       "subcategory": "2-4",
       "title": "product171"
     },
@@ -1769,7 +1761,7 @@
       "id": "172",
       "picture": "https://source.unsplash.com/random",
       "price": 3802,
-      "colors": ["red", "yellow", "black", "pink", "green", "white"],
+      "size": ["red", "yellow", "black", "pink", "green", "white"],
       "subcategory": "1-4",
       "title": "product172"
     },
@@ -1779,7 +1771,7 @@
       "id": "173",
       "picture": "https://source.unsplash.com/random",
       "price": 3848,
-      "colors": ["yellow", "cyan"],
+      "size": ["yellow", "cyan"],
       "subcategory": "3-1",
       "title": "product173"
     },
@@ -1789,7 +1781,7 @@
       "id": "174",
       "picture": "https://source.unsplash.com/random",
       "price": 8908,
-      "colors": ["orange", "red", "white", "gray", "cyan", "pink"],
+      "size": ["orange", "red", "white", "gray", "cyan", "pink"],
       "subcategory": "1-1",
       "title": "product174"
     },
@@ -1799,7 +1791,7 @@
       "id": "175",
       "picture": "https://source.unsplash.com/random",
       "price": 4057,
-      "colors": ["black", "yellow", "orange", "green", "gray", "red"],
+      "size": ["black", "yellow", "orange", "green", "gray", "red"],
       "subcategory": "3-4",
       "title": "product175"
     },
@@ -1809,7 +1801,7 @@
       "id": "176",
       "picture": "https://source.unsplash.com/random",
       "price": 4063,
-      "colors": ["purple"],
+      "size": ["purple"],
       "subcategory": "2-3",
       "title": "product176"
     },
@@ -1819,7 +1811,7 @@
       "id": "177",
       "picture": "https://source.unsplash.com/random",
       "price": 932,
-      "colors": ["purple", "cyan", "orange"],
+      "size": ["purple", "cyan", "orange"],
       "subcategory": "3-3",
       "title": "product177"
     },
@@ -1829,7 +1821,7 @@
       "id": "178",
       "picture": "https://source.unsplash.com/random",
       "price": 7133,
-      "colors": ["cyan", "orange", "pink"],
+      "size": ["cyan", "orange", "pink"],
       "subcategory": "1-1",
       "title": "product178"
     },
@@ -1839,7 +1831,7 @@
       "id": "179",
       "picture": "https://source.unsplash.com/random",
       "price": 4759,
-      "colors": ["purple", "white", "pink"],
+      "size": ["purple", "white", "pink"],
       "subcategory": "3-4",
       "title": "product179"
     },
@@ -1849,7 +1841,7 @@
       "id": "180",
       "picture": "https://source.unsplash.com/random",
       "price": 6494,
-      "colors": ["cyan"],
+      "size": ["cyan"],
       "subcategory": "2-1",
       "title": "product180"
     },
@@ -1859,7 +1851,7 @@
       "id": "181",
       "picture": "https://source.unsplash.com/random",
       "price": 3424,
-      "colors": ["pink", "orange", "cyan", "white"],
+      "size": ["pink", "orange", "cyan", "white"],
       "subcategory": "3-2",
       "title": "product181"
     },
@@ -1869,7 +1861,7 @@
       "id": "182",
       "picture": "https://source.unsplash.com/random",
       "price": 7057,
-      "colors": ["white", "gray", "orange"],
+      "size": ["white", "gray", "orange"],
       "subcategory": "2-4",
       "title": "product182"
     },
@@ -1879,7 +1871,7 @@
       "id": "183",
       "picture": "https://source.unsplash.com/random",
       "price": 1957,
-      "colors": ["green", "white", "orange", "yellow", "red", "gray"],
+      "size": ["green", "white", "orange", "yellow", "red", "gray"],
       "subcategory": "2-2",
       "title": "product183"
     },
@@ -1889,7 +1881,7 @@
       "id": "184",
       "picture": "https://source.unsplash.com/random",
       "price": 910,
-      "colors": ["yellow", "pink", "white", "gray", "green"],
+      "size": ["yellow", "pink", "white", "gray", "green"],
       "subcategory": "1-1",
       "title": "product184"
     },
@@ -1899,7 +1891,7 @@
       "id": "185",
       "picture": "https://source.unsplash.com/random",
       "price": 122,
-      "colors": ["purple", "green", "black", "cyan"],
+      "size": ["purple", "green", "black", "cyan"],
       "subcategory": "1-2",
       "title": "product185"
     },
@@ -1909,7 +1901,7 @@
       "id": "186",
       "picture": "https://source.unsplash.com/random",
       "price": 5448,
-      "colors": ["orange", "pink", "purple", "yellow", "red"],
+      "size": ["orange", "pink", "purple", "yellow", "red"],
       "subcategory": "2-2",
       "title": "product186"
     },
@@ -1919,7 +1911,7 @@
       "id": "187",
       "picture": "https://source.unsplash.com/random",
       "price": 5403,
-      "colors": ["green", "white"],
+      "size": ["green", "white"],
       "subcategory": "1-3",
       "title": "product187"
     },
@@ -1929,7 +1921,7 @@
       "id": "188",
       "picture": "https://source.unsplash.com/random",
       "price": 1084,
-      "colors": ["yellow", "pink", "cyan"],
+      "size": ["yellow", "pink", "cyan"],
       "subcategory": "1-3",
       "title": "product188"
     },
@@ -1939,7 +1931,7 @@
       "id": "189",
       "picture": "https://source.unsplash.com/random",
       "price": 7264,
-      "colors": ["cyan", "red", "gray", "green", "orange"],
+      "size": ["cyan", "red", "gray", "green", "orange"],
       "subcategory": "1-4",
       "title": "product189"
     },
@@ -1949,7 +1941,7 @@
       "id": "190",
       "picture": "https://source.unsplash.com/random",
       "price": 8489,
-      "colors": ["red", "pink", "black", "orange", "cyan"],
+      "size": ["red", "pink", "black", "orange", "cyan"],
       "subcategory": "2-3",
       "title": "product190"
     },
@@ -1959,7 +1951,7 @@
       "id": "191",
       "picture": "https://source.unsplash.com/random",
       "price": 1587,
-      "colors": ["orange", "green", "red", "pink", "purple"],
+      "size": ["orange", "green", "red", "pink", "purple"],
       "subcategory": "3-3",
       "title": "product191"
     },
@@ -1969,7 +1961,7 @@
       "id": "192",
       "picture": "https://source.unsplash.com/random",
       "price": 7390,
-      "colors": ["yellow", "pink"],
+      "size": ["yellow", "pink"],
       "subcategory": "3-3",
       "title": "product192"
     },
@@ -1979,7 +1971,7 @@
       "id": "193",
       "picture": "https://source.unsplash.com/random",
       "price": 1142,
-      "colors": ["gray", "yellow", "black", "purple"],
+      "size": ["gray", "yellow", "black", "purple"],
       "subcategory": "2-1",
       "title": "product193"
     },
@@ -1989,7 +1981,7 @@
       "id": "194",
       "picture": "https://source.unsplash.com/random",
       "price": 5053,
-      "colors": ["yellow", "gray", "orange", "black"],
+      "size": ["yellow", "gray", "orange", "black"],
       "subcategory": "2-1",
       "title": "product194"
     },
@@ -1999,7 +1991,7 @@
       "id": "195",
       "picture": "https://source.unsplash.com/random",
       "price": 9952,
-      "colors": ["orange", "white"],
+      "size": ["orange", "white"],
       "subcategory": "3-3",
       "title": "product195"
     },
@@ -2009,7 +2001,7 @@
       "id": "196",
       "picture": "https://source.unsplash.com/random",
       "price": 639,
-      "colors": ["orange", "purple", "white", "cyan", "pink", "red", "green"],
+      "size": ["orange", "purple", "white", "cyan", "pink", "red", "green"],
       "subcategory": "1-1",
       "title": "product196"
     },
@@ -2019,7 +2011,7 @@
       "id": "197",
       "picture": "https://source.unsplash.com/random",
       "price": 5216,
-      "colors": ["gray", "yellow", "pink", "white"],
+      "size": ["gray", "yellow", "pink", "white"],
       "subcategory": "2-4",
       "title": "product197"
     },
@@ -2029,7 +2021,7 @@
       "id": "198",
       "picture": "https://source.unsplash.com/random",
       "price": 59,
-      "colors": ["white", "yellow", "green", "cyan", "black", "red"],
+      "size": ["white", "yellow", "green", "cyan", "black", "red"],
       "subcategory": "3-2",
       "title": "product198"
     },
@@ -2039,7 +2031,7 @@
       "id": "199",
       "picture": "https://source.unsplash.com/random",
       "price": 7763,
-      "colors": ["white", "yellow", "red", "pink", "green", "purple", "black"],
+      "size": ["white", "yellow", "red", "pink", "green", "purple", "black"],
       "subcategory": "3-1",
       "title": "product199"
     },
@@ -2049,7 +2041,7 @@
       "id": "200",
       "picture": "https://source.unsplash.com/random",
       "price": 3842,
-      "colors": ["cyan", "gray", "yellow", "white", "black"],
+      "size": ["cyan", "gray", "yellow", "white", "black"],
       "subcategory": "3-4",
       "title": "product200"
     },
@@ -2059,7 +2051,7 @@
       "id": "201",
       "picture": "https://source.unsplash.com/random",
       "price": 5291,
-      "colors": ["yellow", "white", "purple", "gray", "pink", "black"],
+      "size": ["yellow", "white", "purple", "gray", "pink", "black"],
       "subcategory": "3-4",
       "title": "product201"
     },
@@ -2069,7 +2061,7 @@
       "id": "202",
       "picture": "https://source.unsplash.com/random",
       "price": 9,
-      "colors": ["cyan", "red", "white", "green"],
+      "size": ["cyan", "red", "white", "green"],
       "subcategory": "2-2",
       "title": "product202"
     },
@@ -2079,7 +2071,7 @@
       "id": "203",
       "picture": "https://source.unsplash.com/random",
       "price": 2428,
-      "colors": ["gray", "white", "cyan", "yellow"],
+      "size": ["gray", "white", "cyan", "yellow"],
       "subcategory": "2-1",
       "title": "product203"
     },
@@ -2089,7 +2081,7 @@
       "id": "204",
       "picture": "https://source.unsplash.com/random",
       "price": 197,
-      "colors": ["white"],
+      "size": ["white"],
       "subcategory": "2-1",
       "title": "product204"
     },
@@ -2099,7 +2091,7 @@
       "id": "205",
       "picture": "https://source.unsplash.com/random",
       "price": 5699,
-      "colors": ["green", "white", "cyan", "black"],
+      "size": ["green", "white", "cyan", "black"],
       "subcategory": "3-3",
       "title": "product205"
     },
@@ -2109,7 +2101,7 @@
       "id": "206",
       "picture": "https://source.unsplash.com/random",
       "price": 6933,
-      "colors": ["yellow", "white", "gray", "orange"],
+      "size": ["yellow", "white", "gray", "orange"],
       "subcategory": "2-4",
       "title": "product206"
     },
@@ -2119,7 +2111,7 @@
       "id": "207",
       "picture": "https://source.unsplash.com/random",
       "price": 4129,
-      "colors": ["white", "green", "red", "black", "orange", "gray"],
+      "size": ["white", "green", "red", "black", "orange", "gray"],
       "subcategory": "2-1",
       "title": "product207"
     },
@@ -2129,7 +2121,7 @@
       "id": "208",
       "picture": "https://source.unsplash.com/random",
       "price": 1522,
-      "colors": ["orange", "red"],
+      "size": ["orange", "red"],
       "subcategory": "3-4",
       "title": "product208"
     },
@@ -2139,7 +2131,7 @@
       "id": "209",
       "picture": "https://source.unsplash.com/random",
       "price": 8311,
-      "colors": ["pink", "gray", "red", "white", "cyan", "black"],
+      "size": ["pink", "gray", "red", "white", "cyan", "black"],
       "subcategory": "2-4",
       "title": "product209"
     },
@@ -2149,7 +2141,7 @@
       "id": "210",
       "picture": "https://source.unsplash.com/random",
       "price": 2291,
-      "colors": ["white", "orange", "yellow"],
+      "size": ["white", "orange", "yellow"],
       "subcategory": "2-1",
       "title": "product210"
     },
@@ -2159,7 +2151,7 @@
       "id": "211",
       "picture": "https://source.unsplash.com/random",
       "price": 5339,
-      "colors": ["cyan", "gray", "green", "yellow"],
+      "size": ["cyan", "gray", "green", "yellow"],
       "subcategory": "1-2",
       "title": "product211"
     },
@@ -2169,7 +2161,7 @@
       "id": "212",
       "picture": "https://source.unsplash.com/random",
       "price": 1546,
-      "colors": ["gray", "green", "pink", "cyan", "yellow"],
+      "size": ["gray", "green", "pink", "cyan", "yellow"],
       "subcategory": "2-4",
       "title": "product212"
     },
@@ -2179,7 +2171,7 @@
       "id": "213",
       "picture": "https://source.unsplash.com/random",
       "price": 9949,
-      "colors": ["purple", "cyan", "white"],
+      "size": ["purple", "cyan", "white"],
       "subcategory": "3-4",
       "title": "product213"
     },
@@ -2189,7 +2181,7 @@
       "id": "214",
       "picture": "https://source.unsplash.com/random",
       "price": 5556,
-      "colors": ["white", "cyan"],
+      "size": ["white", "cyan"],
       "subcategory": "1-4",
       "title": "product214"
     },
@@ -2199,7 +2191,7 @@
       "id": "215",
       "picture": "https://source.unsplash.com/random",
       "price": 9399,
-      "colors": ["gray", "black", "red", "orange", "pink", "cyan"],
+      "size": ["gray", "black", "red", "orange", "pink", "cyan"],
       "subcategory": "1-1",
       "title": "product215"
     },
@@ -2209,7 +2201,7 @@
       "id": "216",
       "picture": "https://source.unsplash.com/random",
       "price": 5825,
-      "colors": ["pink", "gray", "black", "green", "cyan", "red", "yellow"],
+      "size": ["pink", "gray", "black", "green", "cyan", "red", "yellow"],
       "subcategory": "1-2",
       "title": "product216"
     },
@@ -2219,7 +2211,7 @@
       "id": "217",
       "picture": "https://source.unsplash.com/random",
       "price": 2806,
-      "colors": ["purple", "green"],
+      "size": ["purple", "green"],
       "subcategory": "2-4",
       "title": "product217"
     },
@@ -2229,7 +2221,7 @@
       "id": "218",
       "picture": "https://source.unsplash.com/random",
       "price": 2140,
-      "colors": ["yellow", "white", "black", "cyan", "green", "purple"],
+      "size": ["yellow", "white", "black", "cyan", "green", "purple"],
       "subcategory": "1-3",
       "title": "product218"
     },
@@ -2239,7 +2231,7 @@
       "id": "219",
       "picture": "https://source.unsplash.com/random",
       "price": 9975,
-      "colors": [
+      "size": [
         "black",
         "orange",
         "red",
@@ -2258,7 +2250,7 @@
       "id": "220",
       "picture": "https://source.unsplash.com/random",
       "price": 9342,
-      "colors": ["red", "orange", "purple", "yellow", "white", "pink"],
+      "size": ["red", "orange", "purple", "yellow", "white", "pink"],
       "subcategory": "1-3",
       "title": "product220"
     },
@@ -2268,7 +2260,7 @@
       "id": "221",
       "picture": "https://source.unsplash.com/random",
       "price": 1629,
-      "colors": ["gray", "cyan", "pink"],
+      "size": ["gray", "cyan", "pink"],
       "subcategory": "2-3",
       "title": "product221"
     },
@@ -2278,7 +2270,7 @@
       "id": "222",
       "picture": "https://source.unsplash.com/random",
       "price": 9871,
-      "colors": ["yellow", "purple", "black", "green"],
+      "size": ["yellow", "purple", "black", "green"],
       "subcategory": "1-4",
       "title": "product222"
     },
@@ -2288,7 +2280,7 @@
       "id": "223",
       "picture": "https://source.unsplash.com/random",
       "price": 764,
-      "colors": ["white", "gray", "orange", "cyan"],
+      "size": ["white", "gray", "orange", "cyan"],
       "subcategory": "3-3",
       "title": "product223"
     },
@@ -2298,7 +2290,7 @@
       "id": "224",
       "picture": "https://source.unsplash.com/random",
       "price": 6313,
-      "colors": ["orange", "black"],
+      "size": ["orange", "black"],
       "subcategory": "2-1",
       "title": "product224"
     },
@@ -2308,7 +2300,7 @@
       "id": "225",
       "picture": "https://source.unsplash.com/random",
       "price": 9744,
-      "colors": ["cyan", "purple", "yellow", "green", "white", "black"],
+      "size": ["cyan", "purple", "yellow", "green", "white", "black"],
       "subcategory": "1-2",
       "title": "product225"
     },
@@ -2318,7 +2310,7 @@
       "id": "226",
       "picture": "https://source.unsplash.com/random",
       "price": 4267,
-      "colors": ["white", "pink", "green", "cyan", "red"],
+      "size": ["white", "pink", "green", "cyan", "red"],
       "subcategory": "3-4",
       "title": "product226"
     },
@@ -2328,7 +2320,7 @@
       "id": "227",
       "picture": "https://source.unsplash.com/random",
       "price": 1033,
-      "colors": ["orange", "purple", "red", "yellow", "cyan"],
+      "size": ["orange", "purple", "red", "yellow", "cyan"],
       "subcategory": "1-2",
       "title": "product227"
     },
@@ -2338,7 +2330,7 @@
       "id": "228",
       "picture": "https://source.unsplash.com/random",
       "price": 1500,
-      "colors": ["red", "orange", "cyan", "white", "gray", "yellow"],
+      "size": ["red", "orange", "cyan", "white", "gray", "yellow"],
       "subcategory": "1-2",
       "title": "product228"
     },
@@ -2348,7 +2340,7 @@
       "id": "229",
       "picture": "https://source.unsplash.com/random",
       "price": 6595,
-      "colors": ["red", "black", "purple", "gray", "green", "orange", "white"],
+      "size": ["red", "black", "purple", "gray", "green", "orange", "white"],
       "subcategory": "2-4",
       "title": "product229"
     },
@@ -2358,7 +2350,7 @@
       "id": "230",
       "picture": "https://source.unsplash.com/random",
       "price": 2764,
-      "colors": ["white"],
+      "size": ["white"],
       "subcategory": "1-3",
       "title": "product230"
     },
@@ -2368,7 +2360,7 @@
       "id": "231",
       "picture": "https://source.unsplash.com/random",
       "price": 4961,
-      "colors": ["orange"],
+      "size": ["orange"],
       "subcategory": "3-3",
       "title": "product231"
     },
@@ -2378,7 +2370,7 @@
       "id": "232",
       "picture": "https://source.unsplash.com/random",
       "price": 6941,
-      "colors": ["orange", "purple", "cyan", "gray"],
+      "size": ["orange", "purple", "cyan", "gray"],
       "subcategory": "2-4",
       "title": "product232"
     },
@@ -2388,7 +2380,7 @@
       "id": "233",
       "picture": "https://source.unsplash.com/random",
       "price": 6798,
-      "colors": ["yellow", "orange", "cyan", "purple", "pink", "red"],
+      "size": ["yellow", "orange", "cyan", "purple", "pink", "red"],
       "subcategory": "2-4",
       "title": "product233"
     },
@@ -2398,15 +2390,7 @@
       "id": "234",
       "picture": "https://source.unsplash.com/random",
       "price": 9367,
-      "colors": [
-        "green",
-        "yellow",
-        "black",
-        "purple",
-        "cyan",
-        "orange",
-        "gray"
-      ],
+      "size": ["green", "yellow", "black", "purple", "cyan", "orange", "gray"],
       "subcategory": "1-2",
       "title": "product234"
     },
@@ -2416,7 +2400,7 @@
       "id": "235",
       "picture": "https://source.unsplash.com/random",
       "price": 5369,
-      "colors": ["purple", "gray", "cyan", "black"],
+      "size": ["purple", "gray", "cyan", "black"],
       "subcategory": "2-3",
       "title": "product235"
     },
@@ -2426,7 +2410,7 @@
       "id": "236",
       "picture": "https://source.unsplash.com/random",
       "price": 5217,
-      "colors": ["red", "green", "pink", "orange", "cyan", "yellow"],
+      "size": ["red", "green", "pink", "orange", "cyan", "yellow"],
       "subcategory": "2-4",
       "title": "product236"
     },
@@ -2436,7 +2420,7 @@
       "id": "237",
       "picture": "https://source.unsplash.com/random",
       "price": 5777,
-      "colors": ["white", "red", "black"],
+      "size": ["white", "red", "black"],
       "subcategory": "2-4",
       "title": "product237"
     },
@@ -2446,7 +2430,7 @@
       "id": "238",
       "picture": "https://source.unsplash.com/random",
       "price": 4938,
-      "colors": ["purple", "red", "gray", "pink", "yellow"],
+      "size": ["purple", "red", "gray", "pink", "yellow"],
       "subcategory": "1-4",
       "title": "product238"
     },
@@ -2456,7 +2440,7 @@
       "id": "239",
       "picture": "https://source.unsplash.com/random",
       "price": 705,
-      "colors": ["green", "yellow", "pink", "black", "gray"],
+      "size": ["green", "yellow", "pink", "black", "gray"],
       "subcategory": "1-4",
       "title": "product239"
     },
@@ -2466,7 +2450,7 @@
       "id": "240",
       "picture": "https://source.unsplash.com/random",
       "price": 5544,
-      "colors": ["purple"],
+      "size": ["purple"],
       "subcategory": "1-4",
       "title": "product240"
     },
@@ -2476,7 +2460,7 @@
       "id": "241",
       "picture": "https://source.unsplash.com/random",
       "price": 735,
-      "colors": ["green", "yellow", "gray", "white"],
+      "size": ["green", "yellow", "gray", "white"],
       "subcategory": "1-1",
       "title": "product241"
     },
@@ -2486,7 +2470,7 @@
       "id": "242",
       "picture": "https://source.unsplash.com/random",
       "price": 6342,
-      "colors": ["pink", "orange", "purple", "red"],
+      "size": ["pink", "orange", "purple", "red"],
       "subcategory": "3-2",
       "title": "product242"
     },
@@ -2496,7 +2480,7 @@
       "id": "243",
       "picture": "https://source.unsplash.com/random",
       "price": 8269,
-      "colors": ["white", "black", "green", "gray"],
+      "size": ["white", "black", "green", "gray"],
       "subcategory": "2-3",
       "title": "product243"
     },
@@ -2506,7 +2490,7 @@
       "id": "244",
       "picture": "https://source.unsplash.com/random",
       "price": 3896,
-      "colors": ["orange"],
+      "size": ["orange"],
       "subcategory": "1-2",
       "title": "product244"
     },
@@ -2516,7 +2500,7 @@
       "id": "245",
       "picture": "https://source.unsplash.com/random",
       "price": 2701,
-      "colors": ["pink", "white", "orange", "cyan", "purple", "yellow"],
+      "size": ["pink", "white", "orange", "cyan", "purple", "yellow"],
       "subcategory": "3-1",
       "title": "product245"
     },
@@ -2526,7 +2510,7 @@
       "id": "246",
       "picture": "https://source.unsplash.com/random",
       "price": 2181,
-      "colors": ["purple", "green", "red", "yellow", "pink", "black"],
+      "size": ["purple", "green", "red", "yellow", "pink", "black"],
       "subcategory": "2-4",
       "title": "product246"
     },
@@ -2536,7 +2520,7 @@
       "id": "247",
       "picture": "https://source.unsplash.com/random",
       "price": 7881,
-      "colors": ["white", "purple", "black", "red", "orange", "yellow"],
+      "size": ["white", "purple", "black", "red", "orange", "yellow"],
       "subcategory": "2-2",
       "title": "product247"
     },
@@ -2546,7 +2530,7 @@
       "id": "248",
       "picture": "https://source.unsplash.com/random",
       "price": 2206,
-      "colors": ["pink", "orange", "gray", "purple", "white"],
+      "size": ["pink", "orange", "gray", "purple", "white"],
       "subcategory": "3-4",
       "title": "product248"
     },
@@ -2556,7 +2540,7 @@
       "id": "249",
       "picture": "https://source.unsplash.com/random",
       "price": 6103,
-      "colors": ["orange", "green", "white", "yellow"],
+      "size": ["orange", "green", "white", "yellow"],
       "subcategory": "2-3",
       "title": "product249"
     },
@@ -2566,7 +2550,7 @@
       "id": "250",
       "picture": "https://source.unsplash.com/random",
       "price": 3503,
-      "colors": ["white", "cyan"],
+      "size": ["white", "cyan"],
       "subcategory": "3-2",
       "title": "product250"
     },
@@ -2576,7 +2560,7 @@
       "id": "251",
       "picture": "https://source.unsplash.com/random",
       "price": 6291,
-      "colors": ["green"],
+      "size": ["green"],
       "subcategory": "3-2",
       "title": "product251"
     },
@@ -2586,7 +2570,7 @@
       "id": "252",
       "picture": "https://source.unsplash.com/random",
       "price": 7265,
-      "colors": ["white", "purple", "red", "green", "cyan", "black"],
+      "size": ["white", "purple", "red", "green", "cyan", "black"],
       "subcategory": "2-2",
       "title": "product252"
     },
@@ -2596,7 +2580,7 @@
       "id": "253",
       "picture": "https://source.unsplash.com/random",
       "price": 4027,
-      "colors": ["purple", "orange", "red", "cyan", "pink"],
+      "size": ["purple", "orange", "red", "cyan", "pink"],
       "subcategory": "1-2",
       "title": "product253"
     },
@@ -2606,7 +2590,7 @@
       "id": "254",
       "picture": "https://source.unsplash.com/random",
       "price": 5762,
-      "colors": ["red", "white", "gray", "pink"],
+      "size": ["red", "white", "gray", "pink"],
       "subcategory": "3-2",
       "title": "product254"
     },
@@ -2616,7 +2600,7 @@
       "id": "255",
       "picture": "https://source.unsplash.com/random",
       "price": 398,
-      "colors": ["gray", "green", "yellow", "red", "white"],
+      "size": ["gray", "green", "yellow", "red", "white"],
       "subcategory": "1-1",
       "title": "product255"
     },
@@ -2626,7 +2610,7 @@
       "id": "256",
       "picture": "https://source.unsplash.com/random",
       "price": 1188,
-      "colors": ["yellow", "gray", "red", "pink", "green", "white", "orange"],
+      "size": ["yellow", "gray", "red", "pink", "green", "white", "orange"],
       "subcategory": "1-2",
       "title": "product256"
     },
@@ -2636,7 +2620,7 @@
       "id": "257",
       "picture": "https://source.unsplash.com/random",
       "price": 7958,
-      "colors": ["orange", "purple", "white", "red", "green", "black", "pink"],
+      "size": ["orange", "purple", "white", "red", "green", "black", "pink"],
       "subcategory": "1-4",
       "title": "product257"
     },
@@ -2646,7 +2630,7 @@
       "id": "258",
       "picture": "https://source.unsplash.com/random",
       "price": 6533,
-      "colors": ["yellow", "black", "red", "gray", "purple"],
+      "size": ["yellow", "black", "red", "gray", "purple"],
       "subcategory": "1-1",
       "title": "product258"
     },
@@ -2656,7 +2640,7 @@
       "id": "259",
       "picture": "https://source.unsplash.com/random",
       "price": 5808,
-      "colors": ["yellow", "red", "green", "cyan", "gray", "purple"],
+      "size": ["yellow", "red", "green", "cyan", "gray", "purple"],
       "subcategory": "2-1",
       "title": "product259"
     },
@@ -2666,7 +2650,7 @@
       "id": "260",
       "picture": "https://source.unsplash.com/random",
       "price": 6187,
-      "colors": ["orange", "yellow", "black", "red", "purple", "white"],
+      "size": ["orange", "yellow", "black", "red", "purple", "white"],
       "subcategory": "3-4",
       "title": "product260"
     },
@@ -2676,7 +2660,7 @@
       "id": "261",
       "picture": "https://source.unsplash.com/random",
       "price": 2870,
-      "colors": ["cyan", "gray", "red", "orange", "yellow"],
+      "size": ["cyan", "gray", "red", "orange", "yellow"],
       "subcategory": "2-4",
       "title": "product261"
     },
@@ -2686,7 +2670,7 @@
       "id": "262",
       "picture": "https://source.unsplash.com/random",
       "price": 743,
-      "colors": ["white", "gray", "orange", "cyan"],
+      "size": ["white", "gray", "orange", "cyan"],
       "subcategory": "2-3",
       "title": "product262"
     },
@@ -2696,7 +2680,7 @@
       "id": "263",
       "picture": "https://source.unsplash.com/random",
       "price": 4113,
-      "colors": ["gray", "red", "purple", "orange"],
+      "size": ["gray", "red", "purple", "orange"],
       "subcategory": "1-3",
       "title": "product263"
     },
@@ -2706,7 +2690,7 @@
       "id": "264",
       "picture": "https://source.unsplash.com/random",
       "price": 5083,
-      "colors": ["green", "yellow", "pink", "gray", "white", "black", "cyan"],
+      "size": ["green", "yellow", "pink", "gray", "white", "black", "cyan"],
       "subcategory": "2-2",
       "title": "product264"
     },
@@ -2716,7 +2700,7 @@
       "id": "265",
       "picture": "https://source.unsplash.com/random",
       "price": 2097,
-      "colors": ["gray", "pink", "white", "green"],
+      "size": ["gray", "pink", "white", "green"],
       "subcategory": "3-1",
       "title": "product265"
     },
@@ -2726,7 +2710,7 @@
       "id": "266",
       "picture": "https://source.unsplash.com/random",
       "price": 3930,
-      "colors": ["green", "gray", "cyan", "pink", "yellow", "purple", "red"],
+      "size": ["green", "gray", "cyan", "pink", "yellow", "purple", "red"],
       "subcategory": "3-1",
       "title": "product266"
     },
@@ -2736,7 +2720,7 @@
       "id": "267",
       "picture": "https://source.unsplash.com/random",
       "price": 4440,
-      "colors": ["cyan"],
+      "size": ["cyan"],
       "subcategory": "2-3",
       "title": "product267"
     },
@@ -2746,7 +2730,7 @@
       "id": "268",
       "picture": "https://source.unsplash.com/random",
       "price": 8695,
-      "colors": ["white", "cyan", "black"],
+      "size": ["white", "cyan", "black"],
       "subcategory": "3-4",
       "title": "product268"
     },
@@ -2756,7 +2740,7 @@
       "id": "269",
       "picture": "https://source.unsplash.com/random",
       "price": 9567,
-      "colors": ["green", "red", "gray", "pink", "orange", "yellow"],
+      "size": ["green", "red", "gray", "pink", "orange", "yellow"],
       "subcategory": "3-1",
       "title": "product269"
     },
@@ -2766,7 +2750,7 @@
       "id": "270",
       "picture": "https://source.unsplash.com/random",
       "price": 5451,
-      "colors": ["green", "white", "pink"],
+      "size": ["green", "white", "pink"],
       "subcategory": "1-2",
       "title": "product270"
     },
@@ -2776,7 +2760,7 @@
       "id": "271",
       "picture": "https://source.unsplash.com/random",
       "price": 1087,
-      "colors": ["orange", "red", "purple", "white", "yellow", "pink", "black"],
+      "size": ["orange", "red", "purple", "white", "yellow", "pink", "black"],
       "subcategory": "2-3",
       "title": "product271"
     },
@@ -2786,7 +2770,7 @@
       "id": "272",
       "picture": "https://source.unsplash.com/random",
       "price": 8239,
-      "colors": ["cyan", "red", "green", "gray", "white", "pink"],
+      "size": ["cyan", "red", "green", "gray", "white", "pink"],
       "subcategory": "2-3",
       "title": "product272"
     },
@@ -2796,7 +2780,7 @@
       "id": "273",
       "picture": "https://source.unsplash.com/random",
       "price": 3311,
-      "colors": ["gray", "orange", "purple", "cyan", "black", "yellow"],
+      "size": ["gray", "orange", "purple", "cyan", "black", "yellow"],
       "subcategory": "1-3",
       "title": "product273"
     },
@@ -2806,7 +2790,7 @@
       "id": "274",
       "picture": "https://source.unsplash.com/random",
       "price": 2948,
-      "colors": ["cyan", "black", "white", "red", "gray", "pink", "purple"],
+      "size": ["cyan", "black", "white", "red", "gray", "pink", "purple"],
       "subcategory": "3-1",
       "title": "product274"
     },
@@ -2816,7 +2800,7 @@
       "id": "275",
       "picture": "https://source.unsplash.com/random",
       "price": 1918,
-      "colors": ["black", "red"],
+      "size": ["black", "red"],
       "subcategory": "3-4",
       "title": "product275"
     },
@@ -2826,7 +2810,7 @@
       "id": "276",
       "picture": "https://source.unsplash.com/random",
       "price": 4917,
-      "colors": ["cyan", "orange", "black", "purple", "pink"],
+      "size": ["cyan", "orange", "black", "purple", "pink"],
       "subcategory": "1-3",
       "title": "product276"
     },
@@ -2836,7 +2820,7 @@
       "id": "277",
       "picture": "https://source.unsplash.com/random",
       "price": 9461,
-      "colors": ["black", "white", "pink", "red", "yellow"],
+      "size": ["black", "white", "pink", "red", "yellow"],
       "subcategory": "3-1",
       "title": "product277"
     },
@@ -2846,7 +2830,7 @@
       "id": "278",
       "picture": "https://source.unsplash.com/random",
       "price": 9066,
-      "colors": ["pink", "gray", "green", "purple", "orange"],
+      "size": ["pink", "gray", "green", "purple", "orange"],
       "subcategory": "1-2",
       "title": "product278"
     },
@@ -2856,7 +2840,7 @@
       "id": "279",
       "picture": "https://source.unsplash.com/random",
       "price": 5228,
-      "colors": ["gray", "pink", "purple", "orange", "green"],
+      "size": ["gray", "pink", "purple", "orange", "green"],
       "subcategory": "1-3",
       "title": "product279"
     },
@@ -2866,7 +2850,7 @@
       "id": "280",
       "picture": "https://source.unsplash.com/random",
       "price": 1414,
-      "colors": ["pink", "green"],
+      "size": ["pink", "green"],
       "subcategory": "2-4",
       "title": "product280"
     },
@@ -2876,7 +2860,7 @@
       "id": "281",
       "picture": "https://source.unsplash.com/random",
       "price": 1176,
-      "colors": ["cyan", "black"],
+      "size": ["cyan", "black"],
       "subcategory": "1-1",
       "title": "product281"
     },
@@ -2886,7 +2870,7 @@
       "id": "282",
       "picture": "https://source.unsplash.com/random",
       "price": 1156,
-      "colors": ["white", "black", "red", "green", "gray"],
+      "size": ["white", "black", "red", "green", "gray"],
       "subcategory": "1-3",
       "title": "product282"
     },
@@ -2896,7 +2880,7 @@
       "id": "283",
       "picture": "https://source.unsplash.com/random",
       "price": 2681,
-      "colors": ["white", "purple", "green", "gray", "cyan", "yellow"],
+      "size": ["white", "purple", "green", "gray", "cyan", "yellow"],
       "subcategory": "1-2",
       "title": "product283"
     },
@@ -2906,7 +2890,7 @@
       "id": "284",
       "picture": "https://source.unsplash.com/random",
       "price": 3605,
-      "colors": ["white", "green", "black", "purple", "gray", "cyan", "yellow"],
+      "size": ["white", "green", "black", "purple", "gray", "cyan", "yellow"],
       "subcategory": "1-4",
       "title": "product284"
     },
@@ -2916,7 +2900,7 @@
       "id": "285",
       "picture": "https://source.unsplash.com/random",
       "price": 1202,
-      "colors": ["yellow", "green"],
+      "size": ["yellow", "green"],
       "subcategory": "3-4",
       "title": "product285"
     },
@@ -2926,7 +2910,7 @@
       "id": "286",
       "picture": "https://source.unsplash.com/random",
       "price": 956,
-      "colors": ["yellow", "green", "pink", "purple", "orange"],
+      "size": ["yellow", "green", "pink", "purple", "orange"],
       "subcategory": "2-2",
       "title": "product286"
     },
@@ -2936,7 +2920,7 @@
       "id": "287",
       "picture": "https://source.unsplash.com/random",
       "price": 144,
-      "colors": ["cyan", "pink", "yellow"],
+      "size": ["cyan", "pink", "yellow"],
       "subcategory": "3-1",
       "title": "product287"
     },
@@ -2946,7 +2930,7 @@
       "id": "288",
       "picture": "https://source.unsplash.com/random",
       "price": 4405,
-      "colors": ["orange"],
+      "size": ["orange"],
       "subcategory": "2-1",
       "title": "product288"
     },
@@ -2956,7 +2940,7 @@
       "id": "289",
       "picture": "https://source.unsplash.com/random",
       "price": 4193,
-      "colors": ["white"],
+      "size": ["white"],
       "subcategory": "3-2",
       "title": "product289"
     },
@@ -2966,7 +2950,7 @@
       "id": "290",
       "picture": "https://source.unsplash.com/random",
       "price": 1596,
-      "colors": ["gray", "yellow"],
+      "size": ["gray", "yellow"],
       "subcategory": "3-2",
       "title": "product290"
     },
@@ -2976,7 +2960,7 @@
       "id": "291",
       "picture": "https://source.unsplash.com/random",
       "price": 7716,
-      "colors": ["orange", "pink", "red", "gray", "black"],
+      "size": ["orange", "pink", "red", "gray", "black"],
       "subcategory": "1-3",
       "title": "product291"
     },
@@ -2986,7 +2970,7 @@
       "id": "292",
       "picture": "https://source.unsplash.com/random",
       "price": 5683,
-      "colors": ["black", "pink", "green", "white"],
+      "size": ["black", "pink", "green", "white"],
       "subcategory": "1-3",
       "title": "product292"
     },
@@ -2996,7 +2980,7 @@
       "id": "293",
       "picture": "https://source.unsplash.com/random",
       "price": 5434,
-      "colors": ["red"],
+      "size": ["red"],
       "subcategory": "1-2",
       "title": "product293"
     },
@@ -3006,7 +2990,7 @@
       "id": "294",
       "picture": "https://source.unsplash.com/random",
       "price": 5676,
-      "colors": ["purple", "cyan"],
+      "size": ["purple", "cyan"],
       "subcategory": "3-2",
       "title": "product294"
     },
@@ -3016,7 +3000,7 @@
       "id": "295",
       "picture": "https://source.unsplash.com/random",
       "price": 7814,
-      "colors": ["pink", "black", "purple", "gray", "yellow"],
+      "size": ["pink", "black", "purple", "gray", "yellow"],
       "subcategory": "1-3",
       "title": "product295"
     },
@@ -3026,7 +3010,7 @@
       "id": "296",
       "picture": "https://source.unsplash.com/random",
       "price": 6962,
-      "colors": ["white"],
+      "size": ["white"],
       "subcategory": "1-4",
       "title": "product296"
     },
@@ -3036,7 +3020,7 @@
       "id": "297",
       "picture": "https://source.unsplash.com/random",
       "price": 7281,
-      "colors": ["gray", "purple", "orange", "red", "black", "pink"],
+      "size": ["gray", "purple", "orange", "red", "black", "pink"],
       "subcategory": "3-1",
       "title": "product297"
     },
@@ -3046,7 +3030,7 @@
       "id": "298",
       "picture": "https://source.unsplash.com/random",
       "price": 2120,
-      "colors": ["green", "purple", "pink", "orange", "yellow", "black"],
+      "size": ["green", "purple", "pink", "orange", "yellow", "black"],
       "subcategory": "1-3",
       "title": "product298"
     },
@@ -3056,7 +3040,7 @@
       "id": "299",
       "picture": "https://source.unsplash.com/random",
       "price": 1053,
-      "colors": ["orange", "pink", "cyan"],
+      "size": ["orange", "pink", "cyan"],
       "subcategory": "3-4",
       "title": "product299"
     },
@@ -3066,7 +3050,7 @@
       "id": "300",
       "picture": "https://source.unsplash.com/random",
       "price": 1443,
-      "colors": ["yellow", "red", "black", "gray"],
+      "size": ["yellow", "red", "black", "gray"],
       "subcategory": "1-2",
       "title": "product300"
     },
@@ -3076,7 +3060,7 @@
       "id": "301",
       "picture": "https://source.unsplash.com/random",
       "price": 1743,
-      "colors": ["black", "green", "orange", "gray"],
+      "size": ["black", "green", "orange", "gray"],
       "subcategory": "2-1",
       "title": "product301"
     },
@@ -3086,7 +3070,7 @@
       "id": "302",
       "picture": "https://source.unsplash.com/random",
       "price": 8331,
-      "colors": ["black", "pink", "red", "purple"],
+      "size": ["black", "pink", "red", "purple"],
       "subcategory": "2-3",
       "title": "product302"
     },
@@ -3096,7 +3080,7 @@
       "id": "303",
       "picture": "https://source.unsplash.com/random",
       "price": 806,
-      "colors": [
+      "size": [
         "purple",
         "white",
         "red",
@@ -3115,7 +3099,7 @@
       "id": "304",
       "picture": "https://source.unsplash.com/random",
       "price": 4117,
-      "colors": ["orange", "cyan", "purple"],
+      "size": ["orange", "cyan", "purple"],
       "subcategory": "1-1",
       "title": "product304"
     },
@@ -3125,7 +3109,7 @@
       "id": "305",
       "picture": "https://source.unsplash.com/random",
       "price": 4857,
-      "colors": ["red", "cyan", "black", "gray"],
+      "size": ["red", "cyan", "black", "gray"],
       "subcategory": "1-3",
       "title": "product305"
     },
@@ -3135,7 +3119,7 @@
       "id": "306",
       "picture": "https://source.unsplash.com/random",
       "price": 7292,
-      "colors": ["gray", "pink", "red", "cyan"],
+      "size": ["gray", "pink", "red", "cyan"],
       "subcategory": "2-2",
       "title": "product306"
     },
@@ -3145,7 +3129,7 @@
       "id": "307",
       "picture": "https://source.unsplash.com/random",
       "price": 7055,
-      "colors": ["purple", "green", "pink"],
+      "size": ["purple", "green", "pink"],
       "subcategory": "1-1",
       "title": "product307"
     },
@@ -3155,7 +3139,7 @@
       "id": "308",
       "picture": "https://source.unsplash.com/random",
       "price": 8109,
-      "colors": ["orange"],
+      "size": ["orange"],
       "subcategory": "3-3",
       "title": "product308"
     },
@@ -3165,7 +3149,7 @@
       "id": "309",
       "picture": "https://source.unsplash.com/random",
       "price": 6397,
-      "colors": ["cyan", "white"],
+      "size": ["cyan", "white"],
       "subcategory": "2-2",
       "title": "product309"
     },
@@ -3175,7 +3159,7 @@
       "id": "310",
       "picture": "https://source.unsplash.com/random",
       "price": 6561,
-      "colors": ["orange", "cyan", "red", "purple", "white", "black", "pink"],
+      "size": ["orange", "cyan", "red", "purple", "white", "black", "pink"],
       "subcategory": "2-1",
       "title": "product310"
     },
@@ -3185,7 +3169,7 @@
       "id": "311",
       "picture": "https://source.unsplash.com/random",
       "price": 3448,
-      "colors": ["green", "yellow"],
+      "size": ["green", "yellow"],
       "subcategory": "3-3",
       "title": "product311"
     },
@@ -3195,7 +3179,7 @@
       "id": "312",
       "picture": "https://source.unsplash.com/random",
       "price": 5036,
-      "colors": ["red", "white"],
+      "size": ["red", "white"],
       "subcategory": "2-1",
       "title": "product312"
     },
@@ -3205,7 +3189,7 @@
       "id": "313",
       "picture": "https://source.unsplash.com/random",
       "price": 2,
-      "colors": ["gray"],
+      "size": ["gray"],
       "subcategory": "3-4",
       "title": "product313"
     },
@@ -3215,7 +3199,7 @@
       "id": "314",
       "picture": "https://source.unsplash.com/random",
       "price": 4188,
-      "colors": [
+      "size": [
         "pink",
         "yellow",
         "green",
@@ -3235,7 +3219,7 @@
       "id": "315",
       "picture": "https://source.unsplash.com/random",
       "price": 5488,
-      "colors": ["white", "cyan"],
+      "size": ["white", "cyan"],
       "subcategory": "2-4",
       "title": "product315"
     },
@@ -3245,7 +3229,7 @@
       "id": "316",
       "picture": "https://source.unsplash.com/random",
       "price": 6428,
-      "colors": ["green", "purple", "white", "pink", "orange", "red"],
+      "size": ["green", "purple", "white", "pink", "orange", "red"],
       "subcategory": "3-4",
       "title": "product316"
     },
@@ -3255,7 +3239,7 @@
       "id": "317",
       "picture": "https://source.unsplash.com/random",
       "price": 2199,
-      "colors": ["green", "purple", "white", "gray", "red", "cyan", "orange"],
+      "size": ["green", "purple", "white", "gray", "red", "cyan", "orange"],
       "subcategory": "2-4",
       "title": "product317"
     },
@@ -3265,7 +3249,7 @@
       "id": "318",
       "picture": "https://source.unsplash.com/random",
       "price": 8195,
-      "colors": ["green", "cyan", "gray"],
+      "size": ["green", "cyan", "gray"],
       "subcategory": "2-1",
       "title": "product318"
     },
@@ -3275,7 +3259,7 @@
       "id": "319",
       "picture": "https://source.unsplash.com/random",
       "price": 7476,
-      "colors": ["orange", "purple", "yellow", "cyan"],
+      "size": ["orange", "purple", "yellow", "cyan"],
       "subcategory": "1-3",
       "title": "product319"
     },
@@ -3285,7 +3269,7 @@
       "id": "320",
       "picture": "https://source.unsplash.com/random",
       "price": 4765,
-      "colors": ["yellow", "orange", "green", "purple"],
+      "size": ["yellow", "orange", "green", "purple"],
       "subcategory": "1-3",
       "title": "product320"
     },
@@ -3295,7 +3279,7 @@
       "id": "321",
       "picture": "https://source.unsplash.com/random",
       "price": 8960,
-      "colors": ["cyan", "orange", "red", "yellow"],
+      "size": ["cyan", "orange", "red", "yellow"],
       "subcategory": "2-1",
       "title": "product321"
     },
@@ -3305,7 +3289,7 @@
       "id": "322",
       "picture": "https://source.unsplash.com/random",
       "price": 2305,
-      "colors": ["yellow", "black"],
+      "size": ["yellow", "black"],
       "subcategory": "2-4",
       "title": "product322"
     },
@@ -3315,7 +3299,7 @@
       "id": "323",
       "picture": "https://source.unsplash.com/random",
       "price": 4054,
-      "colors": ["white", "cyan", "black", "orange"],
+      "size": ["white", "cyan", "black", "orange"],
       "subcategory": "3-4",
       "title": "product323"
     },
@@ -3325,7 +3309,7 @@
       "id": "324",
       "picture": "https://source.unsplash.com/random",
       "price": 8743,
-      "colors": ["purple", "cyan", "green", "gray", "white", "pink"],
+      "size": ["purple", "cyan", "green", "gray", "white", "pink"],
       "subcategory": "3-3",
       "title": "product324"
     },
@@ -3335,7 +3319,7 @@
       "id": "325",
       "picture": "https://source.unsplash.com/random",
       "price": 4684,
-      "colors": ["gray", "green"],
+      "size": ["gray", "green"],
       "subcategory": "1-1",
       "title": "product325"
     },
@@ -3345,7 +3329,7 @@
       "id": "326",
       "picture": "https://source.unsplash.com/random",
       "price": 3219,
-      "colors": ["white", "black", "pink"],
+      "size": ["white", "black", "pink"],
       "subcategory": "1-1",
       "title": "product326"
     },
@@ -3355,7 +3339,7 @@
       "id": "327",
       "picture": "https://source.unsplash.com/random",
       "price": 8742,
-      "colors": ["white", "red"],
+      "size": ["white", "red"],
       "subcategory": "3-2",
       "title": "product327"
     },
@@ -3365,7 +3349,7 @@
       "id": "328",
       "picture": "https://source.unsplash.com/random",
       "price": 9070,
-      "colors": ["white", "green", "gray", "black", "orange", "cyan", "yellow"],
+      "size": ["white", "green", "gray", "black", "orange", "cyan", "yellow"],
       "subcategory": "2-2",
       "title": "product328"
     },
@@ -3375,7 +3359,7 @@
       "id": "329",
       "picture": "https://source.unsplash.com/random",
       "price": 8652,
-      "colors": ["gray", "cyan", "white", "red", "purple", "green"],
+      "size": ["gray", "cyan", "white", "red", "purple", "green"],
       "subcategory": "1-2",
       "title": "product329"
     },
@@ -3385,7 +3369,7 @@
       "id": "330",
       "picture": "https://source.unsplash.com/random",
       "price": 6376,
-      "colors": ["cyan", "yellow", "gray"],
+      "size": ["cyan", "yellow", "gray"],
       "subcategory": "1-1",
       "title": "product330"
     },
@@ -3395,7 +3379,7 @@
       "id": "331",
       "picture": "https://source.unsplash.com/random",
       "price": 5115,
-      "colors": ["black", "yellow"],
+      "size": ["black", "yellow"],
       "subcategory": "1-4",
       "title": "product331"
     },
@@ -3405,7 +3389,7 @@
       "id": "332",
       "picture": "https://source.unsplash.com/random",
       "price": 8450,
-      "colors": ["green", "white", "red", "gray", "yellow", "pink", "black"],
+      "size": ["green", "white", "red", "gray", "yellow", "pink", "black"],
       "subcategory": "2-4",
       "title": "product332"
     },
@@ -3415,7 +3399,7 @@
       "id": "333",
       "picture": "https://source.unsplash.com/random",
       "price": 8750,
-      "colors": ["green"],
+      "size": ["green"],
       "subcategory": "3-4",
       "title": "product333"
     },
@@ -3425,7 +3409,7 @@
       "id": "334",
       "picture": "https://source.unsplash.com/random",
       "price": 4638,
-      "colors": ["black", "red", "green", "white", "cyan", "yellow", "orange"],
+      "size": ["black", "red", "green", "white", "cyan", "yellow", "orange"],
       "subcategory": "2-2",
       "title": "product334"
     },
@@ -3435,7 +3419,7 @@
       "id": "335",
       "picture": "https://source.unsplash.com/random",
       "price": 2278,
-      "colors": ["black", "gray", "orange", "white", "cyan"],
+      "size": ["black", "gray", "orange", "white", "cyan"],
       "subcategory": "2-4",
       "title": "product335"
     },
@@ -3445,7 +3429,7 @@
       "id": "336",
       "picture": "https://source.unsplash.com/random",
       "price": 4970,
-      "colors": ["purple", "cyan"],
+      "size": ["purple", "cyan"],
       "subcategory": "3-3",
       "title": "product336"
     },
@@ -3455,7 +3439,7 @@
       "id": "337",
       "picture": "https://source.unsplash.com/random",
       "price": 7285,
-      "colors": ["gray", "green", "black"],
+      "size": ["gray", "green", "black"],
       "subcategory": "2-4",
       "title": "product337"
     },
@@ -3465,7 +3449,7 @@
       "id": "338",
       "picture": "https://source.unsplash.com/random",
       "price": 1730,
-      "colors": ["gray", "cyan"],
+      "size": ["gray", "cyan"],
       "subcategory": "3-2",
       "title": "product338"
     },
@@ -3475,7 +3459,7 @@
       "id": "339",
       "picture": "https://source.unsplash.com/random",
       "price": 9223,
-      "colors": ["purple", "red", "orange", "green", "black"],
+      "size": ["purple", "red", "orange", "green", "black"],
       "subcategory": "2-2",
       "title": "product339"
     },
@@ -3485,7 +3469,7 @@
       "id": "340",
       "picture": "https://source.unsplash.com/random",
       "price": 2482,
-      "colors": ["cyan", "white", "gray", "green", "orange"],
+      "size": ["cyan", "white", "gray", "green", "orange"],
       "subcategory": "3-4",
       "title": "product340"
     },
@@ -3495,7 +3479,7 @@
       "id": "341",
       "picture": "https://source.unsplash.com/random",
       "price": 2091,
-      "colors": ["cyan", "white", "pink", "purple"],
+      "size": ["cyan", "white", "pink", "purple"],
       "subcategory": "2-1",
       "title": "product341"
     },
@@ -3505,7 +3489,7 @@
       "id": "342",
       "picture": "https://source.unsplash.com/random",
       "price": 6005,
-      "colors": ["black", "purple", "pink"],
+      "size": ["black", "purple", "pink"],
       "subcategory": "3-3",
       "title": "product342"
     },
@@ -3515,7 +3499,7 @@
       "id": "343",
       "picture": "https://source.unsplash.com/random",
       "price": 1199,
-      "colors": ["green", "yellow", "purple", "pink", "black"],
+      "size": ["green", "yellow", "purple", "pink", "black"],
       "subcategory": "1-1",
       "title": "product343"
     },
@@ -3525,7 +3509,7 @@
       "id": "344",
       "picture": "https://source.unsplash.com/random",
       "price": 3198,
-      "colors": ["green", "purple"],
+      "size": ["green", "purple"],
       "subcategory": "1-2",
       "title": "product344"
     },
@@ -3535,7 +3519,7 @@
       "id": "345",
       "picture": "https://source.unsplash.com/random",
       "price": 909,
-      "colors": ["cyan", "gray"],
+      "size": ["cyan", "gray"],
       "subcategory": "3-4",
       "title": "product345"
     },
@@ -3545,7 +3529,7 @@
       "id": "346",
       "picture": "https://source.unsplash.com/random",
       "price": 5121,
-      "colors": ["cyan", "red", "green", "yellow", "gray"],
+      "size": ["cyan", "red", "green", "yellow", "gray"],
       "subcategory": "3-4",
       "title": "product346"
     },
@@ -3555,7 +3539,7 @@
       "id": "347",
       "picture": "https://source.unsplash.com/random",
       "price": 9104,
-      "colors": ["purple", "black", "pink", "gray", "white"],
+      "size": ["purple", "black", "pink", "gray", "white"],
       "subcategory": "2-2",
       "title": "product347"
     },
@@ -3565,15 +3549,7 @@
       "id": "348",
       "picture": "https://source.unsplash.com/random",
       "price": 192,
-      "colors": [
-        "yellow",
-        "gray",
-        "pink",
-        "orange",
-        "green",
-        "black",
-        "purple"
-      ],
+      "size": ["yellow", "gray", "pink", "orange", "green", "black", "purple"],
       "subcategory": "2-4",
       "title": "product348"
     },
@@ -3583,7 +3559,7 @@
       "id": "349",
       "picture": "https://source.unsplash.com/random",
       "price": 5702,
-      "colors": ["black", "white", "yellow", "purple"],
+      "size": ["black", "white", "yellow", "purple"],
       "subcategory": "2-3",
       "title": "product349"
     },
@@ -3593,7 +3569,7 @@
       "id": "350",
       "picture": "https://source.unsplash.com/random",
       "price": 1126,
-      "colors": ["black", "red"],
+      "size": ["black", "red"],
       "subcategory": "3-1",
       "title": "product350"
     },
@@ -3603,7 +3579,7 @@
       "id": "351",
       "picture": "https://source.unsplash.com/random",
       "price": 3504,
-      "colors": ["pink", "orange", "cyan"],
+      "size": ["pink", "orange", "cyan"],
       "subcategory": "1-4",
       "title": "product351"
     },
@@ -3613,7 +3589,7 @@
       "id": "352",
       "picture": "https://source.unsplash.com/random",
       "price": 3551,
-      "colors": ["yellow", "red"],
+      "size": ["yellow", "red"],
       "subcategory": "3-3",
       "title": "product352"
     },
@@ -3623,7 +3599,7 @@
       "id": "353",
       "picture": "https://source.unsplash.com/random",
       "price": 3728,
-      "colors": ["gray", "orange", "yellow", "red", "black"],
+      "size": ["gray", "orange", "yellow", "red", "black"],
       "subcategory": "2-1",
       "title": "product353"
     },
@@ -3633,7 +3609,7 @@
       "id": "354",
       "picture": "https://source.unsplash.com/random",
       "price": 5718,
-      "colors": ["red", "cyan", "black", "orange"],
+      "size": ["red", "cyan", "black", "orange"],
       "subcategory": "1-4",
       "title": "product354"
     },
@@ -3643,7 +3619,7 @@
       "id": "355",
       "picture": "https://source.unsplash.com/random",
       "price": 5404,
-      "colors": ["yellow", "pink", "white", "orange", "red"],
+      "size": ["yellow", "pink", "white", "orange", "red"],
       "subcategory": "1-4",
       "title": "product355"
     },
@@ -3653,7 +3629,7 @@
       "id": "356",
       "picture": "https://source.unsplash.com/random",
       "price": 9581,
-      "colors": ["pink"],
+      "size": ["pink"],
       "subcategory": "2-3",
       "title": "product356"
     },
@@ -3663,7 +3639,7 @@
       "id": "357",
       "picture": "https://source.unsplash.com/random",
       "price": 625,
-      "colors": ["cyan", "pink", "gray", "yellow", "green", "white", "black"],
+      "size": ["cyan", "pink", "gray", "yellow", "green", "white", "black"],
       "subcategory": "2-3",
       "title": "product357"
     },
@@ -3673,7 +3649,7 @@
       "id": "358",
       "picture": "https://source.unsplash.com/random",
       "price": 4526,
-      "colors": ["purple", "white", "green", "orange", "cyan", "red", "gray"],
+      "size": ["purple", "white", "green", "orange", "cyan", "red", "gray"],
       "subcategory": "1-3",
       "title": "product358"
     },
@@ -3683,7 +3659,7 @@
       "id": "359",
       "picture": "https://source.unsplash.com/random",
       "price": 8167,
-      "colors": ["cyan", "green", "gray", "white", "yellow"],
+      "size": ["cyan", "green", "gray", "white", "yellow"],
       "subcategory": "2-2",
       "title": "product359"
     },
@@ -3693,7 +3669,7 @@
       "id": "360",
       "picture": "https://source.unsplash.com/random",
       "price": 8402,
-      "colors": ["red", "yellow"],
+      "size": ["red", "yellow"],
       "subcategory": "2-3",
       "title": "product360"
     },
@@ -3703,7 +3679,7 @@
       "id": "361",
       "picture": "https://source.unsplash.com/random",
       "price": 5219,
-      "colors": ["black", "red", "cyan", "white", "pink"],
+      "size": ["black", "red", "cyan", "white", "pink"],
       "subcategory": "2-4",
       "title": "product361"
     },
@@ -3713,7 +3689,7 @@
       "id": "362",
       "picture": "https://source.unsplash.com/random",
       "price": 1457,
-      "colors": ["white", "black", "gray"],
+      "size": ["white", "black", "gray"],
       "subcategory": "3-3",
       "title": "product362"
     },
@@ -3723,7 +3699,7 @@
       "id": "363",
       "picture": "https://source.unsplash.com/random",
       "price": 2636,
-      "colors": ["red", "purple", "orange", "white", "yellow"],
+      "size": ["red", "purple", "orange", "white", "yellow"],
       "subcategory": "3-2",
       "title": "product363"
     },
@@ -3733,7 +3709,7 @@
       "id": "364",
       "picture": "https://source.unsplash.com/random",
       "price": 9764,
-      "colors": ["green", "white"],
+      "size": ["green", "white"],
       "subcategory": "3-2",
       "title": "product364"
     },
@@ -3743,7 +3719,7 @@
       "id": "365",
       "picture": "https://source.unsplash.com/random",
       "price": 6198,
-      "colors": ["cyan", "white"],
+      "size": ["cyan", "white"],
       "subcategory": "3-3",
       "title": "product365"
     },
@@ -3753,7 +3729,7 @@
       "id": "366",
       "picture": "https://source.unsplash.com/random",
       "price": 313,
-      "colors": ["green", "cyan", "purple", "black"],
+      "size": ["green", "cyan", "purple", "black"],
       "subcategory": "3-2",
       "title": "product366"
     },
@@ -3763,7 +3739,7 @@
       "id": "367",
       "picture": "https://source.unsplash.com/random",
       "price": 6537,
-      "colors": ["black", "yellow", "pink", "gray", "purple"],
+      "size": ["black", "yellow", "pink", "gray", "purple"],
       "subcategory": "2-2",
       "title": "product367"
     },
@@ -3773,7 +3749,7 @@
       "id": "368",
       "picture": "https://source.unsplash.com/random",
       "price": 4016,
-      "colors": ["pink", "cyan", "orange", "yellow", "purple"],
+      "size": ["pink", "cyan", "orange", "yellow", "purple"],
       "subcategory": "1-2",
       "title": "product368"
     },
@@ -3783,7 +3759,7 @@
       "id": "369",
       "picture": "https://source.unsplash.com/random",
       "price": 5025,
-      "colors": ["gray", "yellow", "white", "cyan"],
+      "size": ["gray", "yellow", "white", "cyan"],
       "subcategory": "3-1",
       "title": "product369"
     },
@@ -3793,7 +3769,7 @@
       "id": "370",
       "picture": "https://source.unsplash.com/random",
       "price": 2196,
-      "colors": ["red", "white", "green"],
+      "size": ["red", "white", "green"],
       "subcategory": "1-4",
       "title": "product370"
     },
@@ -3803,7 +3779,7 @@
       "id": "371",
       "picture": "https://source.unsplash.com/random",
       "price": 1520,
-      "colors": ["purple", "green", "gray", "orange"],
+      "size": ["purple", "green", "gray", "orange"],
       "subcategory": "2-2",
       "title": "product371"
     },
@@ -3813,7 +3789,7 @@
       "id": "372",
       "picture": "https://source.unsplash.com/random",
       "price": 1526,
-      "colors": ["cyan"],
+      "size": ["cyan"],
       "subcategory": "2-1",
       "title": "product372"
     },
@@ -3823,7 +3799,7 @@
       "id": "373",
       "picture": "https://source.unsplash.com/random",
       "price": 3659,
-      "colors": ["yellow", "pink", "red"],
+      "size": ["yellow", "pink", "red"],
       "subcategory": "3-4",
       "title": "product373"
     },
@@ -3833,7 +3809,7 @@
       "id": "374",
       "picture": "https://source.unsplash.com/random",
       "price": 2979,
-      "colors": ["cyan", "black"],
+      "size": ["cyan", "black"],
       "subcategory": "2-2",
       "title": "product374"
     },
@@ -3843,7 +3819,7 @@
       "id": "375",
       "picture": "https://source.unsplash.com/random",
       "price": 3678,
-      "colors": ["red", "black", "purple", "orange", "white", "green"],
+      "size": ["red", "black", "purple", "orange", "white", "green"],
       "subcategory": "1-1",
       "title": "product375"
     },
@@ -3853,7 +3829,7 @@
       "id": "376",
       "picture": "https://source.unsplash.com/random",
       "price": 2308,
-      "colors": ["gray", "green", "red", "yellow"],
+      "size": ["gray", "green", "red", "yellow"],
       "subcategory": "3-4",
       "title": "product376"
     },
@@ -3863,7 +3839,7 @@
       "id": "377",
       "picture": "https://source.unsplash.com/random",
       "price": 6767,
-      "colors": ["red"],
+      "size": ["red"],
       "subcategory": "3-2",
       "title": "product377"
     },
@@ -3873,7 +3849,7 @@
       "id": "378",
       "picture": "https://source.unsplash.com/random",
       "price": 7214,
-      "colors": ["pink", "green", "red", "orange", "gray"],
+      "size": ["pink", "green", "red", "orange", "gray"],
       "subcategory": "1-2",
       "title": "product378"
     },
@@ -3883,7 +3859,7 @@
       "id": "379",
       "picture": "https://source.unsplash.com/random",
       "price": 973,
-      "colors": ["yellow"],
+      "size": ["yellow"],
       "subcategory": "1-1",
       "title": "product379"
     },
@@ -3893,7 +3869,7 @@
       "id": "380",
       "picture": "https://source.unsplash.com/random",
       "price": 7251,
-      "colors": ["red", "green", "purple", "gray", "white"],
+      "size": ["red", "green", "purple", "gray", "white"],
       "subcategory": "2-2",
       "title": "product380"
     },
@@ -3903,7 +3879,7 @@
       "id": "381",
       "picture": "https://source.unsplash.com/random",
       "price": 9237,
-      "colors": ["cyan", "red", "black", "purple"],
+      "size": ["cyan", "red", "black", "purple"],
       "subcategory": "1-4",
       "title": "product381"
     },
@@ -3913,7 +3889,7 @@
       "id": "382",
       "picture": "https://source.unsplash.com/random",
       "price": 4881,
-      "colors": ["orange", "cyan", "purple", "gray"],
+      "size": ["orange", "cyan", "purple", "gray"],
       "subcategory": "1-2",
       "title": "product382"
     },
@@ -3923,7 +3899,7 @@
       "id": "383",
       "picture": "https://source.unsplash.com/random",
       "price": 7785,
-      "colors": ["orange", "gray", "purple", "cyan", "yellow", "red", "black"],
+      "size": ["orange", "gray", "purple", "cyan", "yellow", "red", "black"],
       "subcategory": "1-4",
       "title": "product383"
     },
@@ -3933,7 +3909,7 @@
       "id": "384",
       "picture": "https://source.unsplash.com/random",
       "price": 8676,
-      "colors": ["red", "cyan", "purple", "yellow"],
+      "size": ["red", "cyan", "purple", "yellow"],
       "subcategory": "3-1",
       "title": "product384"
     },
@@ -3943,7 +3919,7 @@
       "id": "385",
       "picture": "https://source.unsplash.com/random",
       "price": 5182,
-      "colors": ["orange", "pink", "white"],
+      "size": ["orange", "pink", "white"],
       "subcategory": "1-1",
       "title": "product385"
     },
@@ -3953,7 +3929,7 @@
       "id": "386",
       "picture": "https://source.unsplash.com/random",
       "price": 162,
-      "colors": ["purple", "pink", "cyan", "white", "yellow", "orange"],
+      "size": ["purple", "pink", "cyan", "white", "yellow", "orange"],
       "subcategory": "1-4",
       "title": "product386"
     },
@@ -3963,7 +3939,7 @@
       "id": "387",
       "picture": "https://source.unsplash.com/random",
       "price": 3367,
-      "colors": ["red", "black", "purple", "cyan", "orange", "green", "white"],
+      "size": ["red", "black", "purple", "cyan", "orange", "green", "white"],
       "subcategory": "1-3",
       "title": "product387"
     },
@@ -3973,7 +3949,7 @@
       "id": "388",
       "picture": "https://source.unsplash.com/random",
       "price": 7379,
-      "colors": ["purple", "yellow", "white", "pink", "cyan", "orange"],
+      "size": ["purple", "yellow", "white", "pink", "cyan", "orange"],
       "subcategory": "3-4",
       "title": "product388"
     },
@@ -3983,7 +3959,7 @@
       "id": "389",
       "picture": "https://source.unsplash.com/random",
       "price": 7104,
-      "colors": ["orange", "purple", "green", "black", "pink", "red", "gray"],
+      "size": ["orange", "purple", "green", "black", "pink", "red", "gray"],
       "subcategory": "1-3",
       "title": "product389"
     },
@@ -3993,15 +3969,7 @@
       "id": "390",
       "picture": "https://source.unsplash.com/random",
       "price": 46,
-      "colors": [
-        "gray",
-        "white",
-        "yellow",
-        "orange",
-        "purple",
-        "black",
-        "green"
-      ],
+      "size": ["gray", "white", "yellow", "orange", "purple", "black", "green"],
       "subcategory": "2-1",
       "title": "product390"
     },
@@ -4011,7 +3979,7 @@
       "id": "391",
       "picture": "https://source.unsplash.com/random",
       "price": 7620,
-      "colors": ["red", "pink", "orange", "gray", "black", "yellow"],
+      "size": ["red", "pink", "orange", "gray", "black", "yellow"],
       "subcategory": "1-1",
       "title": "product391"
     },
@@ -4021,7 +3989,7 @@
       "id": "392",
       "picture": "https://source.unsplash.com/random",
       "price": 6307,
-      "colors": ["white", "red", "cyan", "gray", "pink", "purple"],
+      "size": ["white", "red", "cyan", "gray", "pink", "purple"],
       "subcategory": "2-4",
       "title": "product392"
     },
@@ -4031,7 +3999,7 @@
       "id": "393",
       "picture": "https://source.unsplash.com/random",
       "price": 3670,
-      "colors": ["green", "cyan", "yellow", "red"],
+      "size": ["green", "cyan", "yellow", "red"],
       "subcategory": "2-4",
       "title": "product393"
     },
@@ -4041,7 +4009,7 @@
       "id": "394",
       "picture": "https://source.unsplash.com/random",
       "price": 2758,
-      "colors": ["pink", "orange", "cyan", "white", "yellow", "black"],
+      "size": ["pink", "orange", "cyan", "white", "yellow", "black"],
       "subcategory": "2-2",
       "title": "product394"
     },
@@ -4051,7 +4019,7 @@
       "id": "395",
       "picture": "https://source.unsplash.com/random",
       "price": 9944,
-      "colors": ["cyan", "green"],
+      "size": ["cyan", "green"],
       "subcategory": "1-1",
       "title": "product395"
     },
@@ -4061,7 +4029,7 @@
       "id": "396",
       "picture": "https://source.unsplash.com/random",
       "price": 7167,
-      "colors": ["yellow", "black", "green", "purple"],
+      "size": ["yellow", "black", "green", "purple"],
       "subcategory": "3-2",
       "title": "product396"
     },
@@ -4071,7 +4039,7 @@
       "id": "397",
       "picture": "https://source.unsplash.com/random",
       "price": 3885,
-      "colors": ["green", "yellow", "orange"],
+      "size": ["green", "yellow", "orange"],
       "subcategory": "3-3",
       "title": "product397"
     },
@@ -4081,7 +4049,7 @@
       "id": "398",
       "picture": "https://source.unsplash.com/random",
       "price": 5011,
-      "colors": ["orange", "cyan", "pink", "yellow", "purple", "gray"],
+      "size": ["orange", "cyan", "pink", "yellow", "purple", "gray"],
       "subcategory": "3-2",
       "title": "product398"
     },
@@ -4091,7 +4059,7 @@
       "id": "399",
       "picture": "https://source.unsplash.com/random",
       "price": 5646,
-      "colors": ["green", "red", "purple", "gray", "black", "orange"],
+      "size": ["green", "red", "purple", "gray", "black", "orange"],
       "subcategory": "2-4",
       "title": "product399"
     },
@@ -4101,7 +4069,7 @@
       "id": "400",
       "picture": "https://source.unsplash.com/random",
       "price": 6280,
-      "colors": ["green", "gray", "orange", "white"],
+      "size": ["green", "gray", "orange", "white"],
       "subcategory": "3-4",
       "title": "product400"
     },
@@ -4111,7 +4079,7 @@
       "id": "401",
       "picture": "https://source.unsplash.com/random",
       "price": 2431,
-      "colors": ["red", "white", "gray"],
+      "size": ["red", "white", "gray"],
       "subcategory": "2-1",
       "title": "product401"
     },
@@ -4121,7 +4089,7 @@
       "id": "402",
       "picture": "https://source.unsplash.com/random",
       "price": 5818,
-      "colors": ["black", "purple", "gray", "orange", "yellow", "cyan", "red"],
+      "size": ["black", "purple", "gray", "orange", "yellow", "cyan", "red"],
       "subcategory": "1-4",
       "title": "product402"
     },
@@ -4131,7 +4099,7 @@
       "id": "403",
       "picture": "https://source.unsplash.com/random",
       "price": 1263,
-      "colors": ["gray", "green", "orange", "red", "cyan", "yellow"],
+      "size": ["gray", "green", "orange", "red", "cyan", "yellow"],
       "subcategory": "2-4",
       "title": "product403"
     },
@@ -4141,7 +4109,7 @@
       "id": "404",
       "picture": "https://source.unsplash.com/random",
       "price": 4683,
-      "colors": ["black", "cyan", "pink", "red", "white", "green"],
+      "size": ["black", "cyan", "pink", "red", "white", "green"],
       "subcategory": "3-2",
       "title": "product404"
     },
@@ -4151,7 +4119,7 @@
       "id": "405",
       "picture": "https://source.unsplash.com/random",
       "price": 6894,
-      "colors": ["red", "cyan", "gray"],
+      "size": ["red", "cyan", "gray"],
       "subcategory": "3-2",
       "title": "product405"
     },
@@ -4161,7 +4129,7 @@
       "id": "406",
       "picture": "https://source.unsplash.com/random",
       "price": 5754,
-      "colors": ["green", "pink", "orange"],
+      "size": ["green", "pink", "orange"],
       "subcategory": "2-3",
       "title": "product406"
     },
@@ -4171,7 +4139,7 @@
       "id": "407",
       "picture": "https://source.unsplash.com/random",
       "price": 2160,
-      "colors": ["red", "purple", "pink", "cyan", "green", "orange", "yellow"],
+      "size": ["red", "purple", "pink", "cyan", "green", "orange", "yellow"],
       "subcategory": "2-3",
       "title": "product407"
     },
@@ -4181,7 +4149,7 @@
       "id": "408",
       "picture": "https://source.unsplash.com/random",
       "price": 8816,
-      "colors": ["pink", "yellow", "black", "red", "green"],
+      "size": ["pink", "yellow", "black", "red", "green"],
       "subcategory": "3-1",
       "title": "product408"
     },
@@ -4191,7 +4159,7 @@
       "id": "409",
       "picture": "https://source.unsplash.com/random",
       "price": 2714,
-      "colors": ["pink", "white"],
+      "size": ["pink", "white"],
       "subcategory": "2-3",
       "title": "product409"
     },
@@ -4201,7 +4169,7 @@
       "id": "410",
       "picture": "https://source.unsplash.com/random",
       "price": 687,
-      "colors": ["gray", "yellow", "orange", "cyan", "purple"],
+      "size": ["gray", "yellow", "orange", "cyan", "purple"],
       "subcategory": "3-1",
       "title": "product410"
     },
@@ -4211,7 +4179,7 @@
       "id": "411",
       "picture": "https://source.unsplash.com/random",
       "price": 1210,
-      "colors": ["red"],
+      "size": ["red"],
       "subcategory": "2-4",
       "title": "product411"
     },
@@ -4221,7 +4189,7 @@
       "id": "412",
       "picture": "https://source.unsplash.com/random",
       "price": 1599,
-      "colors": ["yellow", "cyan", "gray", "red", "orange", "black", "white"],
+      "size": ["yellow", "cyan", "gray", "red", "orange", "black", "white"],
       "subcategory": "2-3",
       "title": "product412"
     },
@@ -4231,7 +4199,7 @@
       "id": "413",
       "picture": "https://source.unsplash.com/random",
       "price": 7760,
-      "colors": ["cyan", "green", "purple", "orange", "gray", "yellow"],
+      "size": ["cyan", "green", "purple", "orange", "gray", "yellow"],
       "subcategory": "2-2",
       "title": "product413"
     },
@@ -4241,7 +4209,7 @@
       "id": "414",
       "picture": "https://source.unsplash.com/random",
       "price": 350,
-      "colors": ["white", "purple", "pink", "red", "orange"],
+      "size": ["white", "purple", "pink", "red", "orange"],
       "subcategory": "1-2",
       "title": "product414"
     },
@@ -4251,7 +4219,7 @@
       "id": "415",
       "picture": "https://source.unsplash.com/random",
       "price": 8957,
-      "colors": ["yellow", "green", "purple", "orange"],
+      "size": ["yellow", "green", "purple", "orange"],
       "subcategory": "3-1",
       "title": "product415"
     },
@@ -4261,7 +4229,7 @@
       "id": "416",
       "picture": "https://source.unsplash.com/random",
       "price": 2356,
-      "colors": ["pink", "cyan", "gray", "yellow", "green"],
+      "size": ["pink", "cyan", "gray", "yellow", "green"],
       "subcategory": "3-1",
       "title": "product416"
     },
@@ -4271,7 +4239,7 @@
       "id": "417",
       "picture": "https://source.unsplash.com/random",
       "price": 3983,
-      "colors": ["orange", "black", "green", "purple"],
+      "size": ["orange", "black", "green", "purple"],
       "subcategory": "2-2",
       "title": "product417"
     },
@@ -4281,7 +4249,7 @@
       "id": "418",
       "picture": "https://source.unsplash.com/random",
       "price": 2641,
-      "colors": ["white", "green"],
+      "size": ["white", "green"],
       "subcategory": "2-3",
       "title": "product418"
     },
@@ -4291,7 +4259,7 @@
       "id": "419",
       "picture": "https://source.unsplash.com/random",
       "price": 5494,
-      "colors": ["gray", "yellow", "white", "black", "pink"],
+      "size": ["gray", "yellow", "white", "black", "pink"],
       "subcategory": "1-2",
       "title": "product419"
     },
@@ -4301,7 +4269,7 @@
       "id": "420",
       "picture": "https://source.unsplash.com/random",
       "price": 5395,
-      "colors": ["white", "pink", "purple", "yellow", "green"],
+      "size": ["white", "pink", "purple", "yellow", "green"],
       "subcategory": "3-1",
       "title": "product420"
     },
@@ -4311,7 +4279,7 @@
       "id": "421",
       "picture": "https://source.unsplash.com/random",
       "price": 3824,
-      "colors": ["red", "orange", "yellow", "cyan", "white"],
+      "size": ["red", "orange", "yellow", "cyan", "white"],
       "subcategory": "3-4",
       "title": "product421"
     },
@@ -4321,7 +4289,7 @@
       "id": "422",
       "picture": "https://source.unsplash.com/random",
       "price": 5750,
-      "colors": ["red", "black", "purple", "pink", "green", "gray"],
+      "size": ["red", "black", "purple", "pink", "green", "gray"],
       "subcategory": "3-1",
       "title": "product422"
     },
@@ -4331,7 +4299,7 @@
       "id": "423",
       "picture": "https://source.unsplash.com/random",
       "price": 7108,
-      "colors": ["gray", "red", "green", "yellow", "black"],
+      "size": ["gray", "red", "green", "yellow", "black"],
       "subcategory": "2-3",
       "title": "product423"
     },
@@ -4341,7 +4309,7 @@
       "id": "424",
       "picture": "https://source.unsplash.com/random",
       "price": 5408,
-      "colors": ["pink", "purple", "white", "cyan", "red", "yellow"],
+      "size": ["pink", "purple", "white", "cyan", "red", "yellow"],
       "subcategory": "3-3",
       "title": "product424"
     },
@@ -4351,7 +4319,7 @@
       "id": "425",
       "picture": "https://source.unsplash.com/random",
       "price": 2210,
-      "colors": ["yellow", "purple", "black", "red", "cyan"],
+      "size": ["yellow", "purple", "black", "red", "cyan"],
       "subcategory": "3-3",
       "title": "product425"
     },
@@ -4361,7 +4329,7 @@
       "id": "426",
       "picture": "https://source.unsplash.com/random",
       "price": 8981,
-      "colors": ["orange", "black"],
+      "size": ["orange", "black"],
       "subcategory": "3-1",
       "title": "product426"
     },
@@ -4371,7 +4339,7 @@
       "id": "427",
       "picture": "https://source.unsplash.com/random",
       "price": 3571,
-      "colors": ["cyan", "red", "white"],
+      "size": ["cyan", "red", "white"],
       "subcategory": "3-4",
       "title": "product427"
     },
@@ -4381,7 +4349,7 @@
       "id": "428",
       "picture": "https://source.unsplash.com/random",
       "price": 4395,
-      "colors": ["cyan", "red", "orange", "yellow", "black", "pink"],
+      "size": ["cyan", "red", "orange", "yellow", "black", "pink"],
       "subcategory": "2-3",
       "title": "product428"
     },
@@ -4391,7 +4359,7 @@
       "id": "429",
       "picture": "https://source.unsplash.com/random",
       "price": 9630,
-      "colors": ["pink"],
+      "size": ["pink"],
       "subcategory": "1-2",
       "title": "product429"
     },
@@ -4401,7 +4369,7 @@
       "id": "430",
       "picture": "https://source.unsplash.com/random",
       "price": 1161,
-      "colors": ["yellow"],
+      "size": ["yellow"],
       "subcategory": "1-1",
       "title": "product430"
     },
@@ -4411,7 +4379,7 @@
       "id": "431",
       "picture": "https://source.unsplash.com/random",
       "price": 9462,
-      "colors": ["black", "cyan", "yellow", "gray"],
+      "size": ["black", "cyan", "yellow", "gray"],
       "subcategory": "1-2",
       "title": "product431"
     },
@@ -4421,7 +4389,7 @@
       "id": "432",
       "picture": "https://source.unsplash.com/random",
       "price": 6720,
-      "colors": ["white"],
+      "size": ["white"],
       "subcategory": "3-3",
       "title": "product432"
     },
@@ -4431,7 +4399,7 @@
       "id": "433",
       "picture": "https://source.unsplash.com/random",
       "price": 8880,
-      "colors": ["black", "gray", "purple", "pink", "orange"],
+      "size": ["black", "gray", "purple", "pink", "orange"],
       "subcategory": "2-2",
       "title": "product433"
     },
@@ -4441,7 +4409,7 @@
       "id": "434",
       "picture": "https://source.unsplash.com/random",
       "price": 343,
-      "colors": ["white", "red", "orange"],
+      "size": ["white", "red", "orange"],
       "subcategory": "1-2",
       "title": "product434"
     },
@@ -4451,7 +4419,7 @@
       "id": "435",
       "picture": "https://source.unsplash.com/random",
       "price": 3090,
-      "colors": ["cyan", "orange"],
+      "size": ["cyan", "orange"],
       "subcategory": "2-4",
       "title": "product435"
     },
@@ -4461,7 +4429,7 @@
       "id": "436",
       "picture": "https://source.unsplash.com/random",
       "price": 2373,
-      "colors": ["cyan"],
+      "size": ["cyan"],
       "subcategory": "2-2",
       "title": "product436"
     },
@@ -4471,7 +4439,7 @@
       "id": "437",
       "picture": "https://source.unsplash.com/random",
       "price": 9968,
-      "colors": ["purple", "gray", "yellow", "pink"],
+      "size": ["purple", "gray", "yellow", "pink"],
       "subcategory": "1-1",
       "title": "product437"
     },
@@ -4481,7 +4449,7 @@
       "id": "438",
       "picture": "https://source.unsplash.com/random",
       "price": 6888,
-      "colors": ["orange", "green", "white", "pink", "yellow"],
+      "size": ["orange", "green", "white", "pink", "yellow"],
       "subcategory": "2-2",
       "title": "product438"
     },
@@ -4491,7 +4459,7 @@
       "id": "439",
       "picture": "https://source.unsplash.com/random",
       "price": 6385,
-      "colors": ["yellow", "white", "red", "purple", "gray", "cyan"],
+      "size": ["yellow", "white", "red", "purple", "gray", "cyan"],
       "subcategory": "2-3",
       "title": "product439"
     },
@@ -4501,7 +4469,7 @@
       "id": "440",
       "picture": "https://source.unsplash.com/random",
       "price": 1360,
-      "colors": ["purple", "cyan", "green", "pink", "white"],
+      "size": ["purple", "cyan", "green", "pink", "white"],
       "subcategory": "1-1",
       "title": "product440"
     },
@@ -4511,7 +4479,7 @@
       "id": "441",
       "picture": "https://source.unsplash.com/random",
       "price": 2865,
-      "colors": ["red", "gray", "black", "orange", "yellow", "green", "white"],
+      "size": ["red", "gray", "black", "orange", "yellow", "green", "white"],
       "subcategory": "3-1",
       "title": "product441"
     },
@@ -4521,7 +4489,7 @@
       "id": "442",
       "picture": "https://source.unsplash.com/random",
       "price": 6475,
-      "colors": ["white"],
+      "size": ["white"],
       "subcategory": "1-2",
       "title": "product442"
     },
@@ -4531,7 +4499,7 @@
       "id": "443",
       "picture": "https://source.unsplash.com/random",
       "price": 1976,
-      "colors": ["green"],
+      "size": ["green"],
       "subcategory": "3-1",
       "title": "product443"
     },
@@ -4541,7 +4509,7 @@
       "id": "444",
       "picture": "https://source.unsplash.com/random",
       "price": 8374,
-      "colors": [
+      "size": [
         "green",
         "red",
         "purple",
@@ -4560,7 +4528,7 @@
       "id": "445",
       "picture": "https://source.unsplash.com/random",
       "price": 8065,
-      "colors": ["orange", "yellow", "cyan", "purple"],
+      "size": ["orange", "yellow", "cyan", "purple"],
       "subcategory": "3-4",
       "title": "product445"
     },
@@ -4570,7 +4538,7 @@
       "id": "446",
       "picture": "https://source.unsplash.com/random",
       "price": 9233,
-      "colors": ["cyan", "red"],
+      "size": ["cyan", "red"],
       "subcategory": "3-2",
       "title": "product446"
     },
@@ -4580,7 +4548,7 @@
       "id": "447",
       "picture": "https://source.unsplash.com/random",
       "price": 9705,
-      "colors": ["orange", "purple", "red", "black", "gray", "yellow", "white"],
+      "size": ["orange", "purple", "red", "black", "gray", "yellow", "white"],
       "subcategory": "2-1",
       "title": "product447"
     },
@@ -4590,15 +4558,7 @@
       "id": "448",
       "picture": "https://source.unsplash.com/random",
       "price": 917,
-      "colors": [
-        "purple",
-        "pink",
-        "orange",
-        "gray",
-        "green",
-        "black",
-        "yellow"
-      ],
+      "size": ["purple", "pink", "orange", "gray", "green", "black", "yellow"],
       "subcategory": "2-3",
       "title": "product448"
     },
@@ -4608,7 +4568,7 @@
       "id": "449",
       "picture": "https://source.unsplash.com/random",
       "price": 3330,
-      "colors": ["pink", "orange", "yellow", "black"],
+      "size": ["pink", "orange", "yellow", "black"],
       "subcategory": "1-4",
       "title": "product449"
     },
@@ -4618,7 +4578,7 @@
       "id": "450",
       "picture": "https://source.unsplash.com/random",
       "price": 1666,
-      "colors": ["cyan", "red", "gray", "green", "black", "purple"],
+      "size": ["cyan", "red", "gray", "green", "black", "purple"],
       "subcategory": "1-3",
       "title": "product450"
     },
@@ -4628,7 +4588,7 @@
       "id": "451",
       "picture": "https://source.unsplash.com/random",
       "price": 5008,
-      "colors": ["green", "white", "red", "black", "pink"],
+      "size": ["green", "white", "red", "black", "pink"],
       "subcategory": "3-1",
       "title": "product451"
     },
@@ -4638,7 +4598,7 @@
       "id": "452",
       "picture": "https://source.unsplash.com/random",
       "price": 5459,
-      "colors": ["purple", "green", "orange", "pink"],
+      "size": ["purple", "green", "orange", "pink"],
       "subcategory": "3-3",
       "title": "product452"
     },
@@ -4648,7 +4608,7 @@
       "id": "453",
       "picture": "https://source.unsplash.com/random",
       "price": 8457,
-      "colors": ["purple", "pink", "orange", "green"],
+      "size": ["purple", "pink", "orange", "green"],
       "subcategory": "2-1",
       "title": "product453"
     },
@@ -4658,7 +4618,7 @@
       "id": "454",
       "picture": "https://source.unsplash.com/random",
       "price": 4154,
-      "colors": ["green"],
+      "size": ["green"],
       "subcategory": "3-4",
       "title": "product454"
     },
@@ -4668,7 +4628,7 @@
       "id": "455",
       "picture": "https://source.unsplash.com/random",
       "price": 2164,
-      "colors": ["green", "red", "cyan"],
+      "size": ["green", "red", "cyan"],
       "subcategory": "2-2",
       "title": "product455"
     },
@@ -4678,7 +4638,7 @@
       "id": "456",
       "picture": "https://source.unsplash.com/random",
       "price": 5031,
-      "colors": ["gray", "purple", "black", "orange"],
+      "size": ["gray", "purple", "black", "orange"],
       "subcategory": "1-4",
       "title": "product456"
     },
@@ -4688,7 +4648,7 @@
       "id": "457",
       "picture": "https://source.unsplash.com/random",
       "price": 2389,
-      "colors": ["black", "cyan", "gray"],
+      "size": ["black", "cyan", "gray"],
       "subcategory": "2-2",
       "title": "product457"
     },
@@ -4698,15 +4658,7 @@
       "id": "458",
       "picture": "https://source.unsplash.com/random",
       "price": 1089,
-      "colors": [
-        "purple",
-        "orange",
-        "green",
-        "yellow",
-        "white",
-        "black",
-        "red"
-      ],
+      "size": ["purple", "orange", "green", "yellow", "white", "black", "red"],
       "subcategory": "1-1",
       "title": "product458"
     },
@@ -4716,7 +4668,7 @@
       "id": "459",
       "picture": "https://source.unsplash.com/random",
       "price": 5288,
-      "colors": ["white"],
+      "size": ["white"],
       "subcategory": "1-4",
       "title": "product459"
     },
@@ -4726,7 +4678,7 @@
       "id": "460",
       "picture": "https://source.unsplash.com/random",
       "price": 6688,
-      "colors": ["black", "purple", "orange", "green", "gray", "cyan", "red"],
+      "size": ["black", "purple", "orange", "green", "gray", "cyan", "red"],
       "subcategory": "3-2",
       "title": "product460"
     },
@@ -4736,7 +4688,7 @@
       "id": "461",
       "picture": "https://source.unsplash.com/random",
       "price": 1913,
-      "colors": ["green", "black"],
+      "size": ["green", "black"],
       "subcategory": "1-2",
       "title": "product461"
     },
@@ -4746,7 +4698,7 @@
       "id": "462",
       "picture": "https://source.unsplash.com/random",
       "price": 6672,
-      "colors": ["yellow", "cyan", "gray", "pink", "orange"],
+      "size": ["yellow", "cyan", "gray", "pink", "orange"],
       "subcategory": "2-4",
       "title": "product462"
     },
@@ -4756,7 +4708,7 @@
       "id": "463",
       "picture": "https://source.unsplash.com/random",
       "price": 6107,
-      "colors": ["white", "pink", "yellow", "red", "cyan"],
+      "size": ["white", "pink", "yellow", "red", "cyan"],
       "subcategory": "3-4",
       "title": "product463"
     },
@@ -4766,7 +4718,7 @@
       "id": "464",
       "picture": "https://source.unsplash.com/random",
       "price": 7868,
-      "colors": ["yellow"],
+      "size": ["yellow"],
       "subcategory": "1-3",
       "title": "product464"
     },
@@ -4776,15 +4728,7 @@
       "id": "465",
       "picture": "https://source.unsplash.com/random",
       "price": 7329,
-      "colors": [
-        "orange",
-        "gray",
-        "cyan",
-        "black",
-        "yellow",
-        "green",
-        "purple"
-      ],
+      "size": ["orange", "gray", "cyan", "black", "yellow", "green", "purple"],
       "subcategory": "3-2",
       "title": "product465"
     },
@@ -4794,15 +4738,7 @@
       "id": "466",
       "picture": "https://source.unsplash.com/random",
       "price": 6001,
-      "colors": [
-        "purple",
-        "pink",
-        "gray",
-        "orange",
-        "green",
-        "white",
-        "yellow"
-      ],
+      "size": ["purple", "pink", "gray", "orange", "green", "white", "yellow"],
       "subcategory": "3-4",
       "title": "product466"
     },
@@ -4812,7 +4748,7 @@
       "id": "467",
       "picture": "https://source.unsplash.com/random",
       "price": 6047,
-      "colors": ["orange", "black", "cyan", "white", "red"],
+      "size": ["orange", "black", "cyan", "white", "red"],
       "subcategory": "2-3",
       "title": "product467"
     },
@@ -4822,7 +4758,7 @@
       "id": "468",
       "picture": "https://source.unsplash.com/random",
       "price": 6007,
-      "colors": ["pink", "purple", "red"],
+      "size": ["pink", "purple", "red"],
       "subcategory": "3-4",
       "title": "product468"
     },
@@ -4832,7 +4768,7 @@
       "id": "469",
       "picture": "https://source.unsplash.com/random",
       "price": 3090,
-      "colors": ["yellow"],
+      "size": ["yellow"],
       "subcategory": "2-2",
       "title": "product469"
     },
@@ -4842,7 +4778,7 @@
       "id": "470",
       "picture": "https://source.unsplash.com/random",
       "price": 475,
-      "colors": [
+      "size": [
         "gray",
         "red",
         "pink",
@@ -4861,7 +4797,7 @@
       "id": "471",
       "picture": "https://source.unsplash.com/random",
       "price": 2929,
-      "colors": ["pink", "yellow"],
+      "size": ["pink", "yellow"],
       "subcategory": "2-1",
       "title": "product471"
     },
@@ -4871,7 +4807,7 @@
       "id": "472",
       "picture": "https://source.unsplash.com/random",
       "price": 5291,
-      "colors": ["red", "cyan", "orange", "gray"],
+      "size": ["red", "cyan", "orange", "gray"],
       "subcategory": "1-1",
       "title": "product472"
     },
@@ -4881,15 +4817,7 @@
       "id": "473",
       "picture": "https://source.unsplash.com/random",
       "price": 7279,
-      "colors": [
-        "yellow",
-        "gray",
-        "black",
-        "purple",
-        "pink",
-        "green",
-        "orange"
-      ],
+      "size": ["yellow", "gray", "black", "purple", "pink", "green", "orange"],
       "subcategory": "2-3",
       "title": "product473"
     },
@@ -4899,7 +4827,7 @@
       "id": "474",
       "picture": "https://source.unsplash.com/random",
       "price": 333,
-      "colors": ["white"],
+      "size": ["white"],
       "subcategory": "1-4",
       "title": "product474"
     },
@@ -4909,7 +4837,7 @@
       "id": "475",
       "picture": "https://source.unsplash.com/random",
       "price": 3972,
-      "colors": ["purple", "orange", "yellow", "red", "pink"],
+      "size": ["purple", "orange", "yellow", "red", "pink"],
       "subcategory": "3-2",
       "title": "product475"
     },
@@ -4919,7 +4847,7 @@
       "id": "476",
       "picture": "https://source.unsplash.com/random",
       "price": 5837,
-      "colors": ["yellow", "gray", "green"],
+      "size": ["yellow", "gray", "green"],
       "subcategory": "1-4",
       "title": "product476"
     },
@@ -4929,7 +4857,7 @@
       "id": "477",
       "picture": "https://source.unsplash.com/random",
       "price": 5921,
-      "colors": ["gray", "green", "orange", "white", "purple"],
+      "size": ["gray", "green", "orange", "white", "purple"],
       "subcategory": "3-1",
       "title": "product477"
     },
@@ -4939,7 +4867,7 @@
       "id": "478",
       "picture": "https://source.unsplash.com/random",
       "price": 4087,
-      "colors": ["orange", "red", "yellow", "purple", "gray"],
+      "size": ["orange", "red", "yellow", "purple", "gray"],
       "subcategory": "3-3",
       "title": "product478"
     },
@@ -4949,7 +4877,7 @@
       "id": "479",
       "picture": "https://source.unsplash.com/random",
       "price": 3924,
-      "colors": ["orange", "pink", "cyan", "yellow", "green"],
+      "size": ["orange", "pink", "cyan", "yellow", "green"],
       "subcategory": "3-4",
       "title": "product479"
     },
@@ -4959,7 +4887,7 @@
       "id": "480",
       "picture": "https://source.unsplash.com/random",
       "price": 6251,
-      "colors": ["orange", "pink", "yellow", "black", "white", "cyan", "green"],
+      "size": ["orange", "pink", "yellow", "black", "white", "cyan", "green"],
       "subcategory": "2-2",
       "title": "product480"
     },
@@ -4969,7 +4897,7 @@
       "id": "481",
       "picture": "https://source.unsplash.com/random",
       "price": 5386,
-      "colors": ["yellow"],
+      "size": ["yellow"],
       "subcategory": "3-1",
       "title": "product481"
     },
@@ -4979,7 +4907,7 @@
       "id": "482",
       "picture": "https://source.unsplash.com/random",
       "price": 6238,
-      "colors": ["orange", "black", "cyan", "green", "pink", "yellow", "gray"],
+      "size": ["orange", "black", "cyan", "green", "pink", "yellow", "gray"],
       "subcategory": "1-1",
       "title": "product482"
     },
@@ -4989,7 +4917,7 @@
       "id": "483",
       "picture": "https://source.unsplash.com/random",
       "price": 4774,
-      "colors": ["green", "orange"],
+      "size": ["green", "orange"],
       "subcategory": "2-4",
       "title": "product483"
     },
@@ -4999,7 +4927,7 @@
       "id": "484",
       "picture": "https://source.unsplash.com/random",
       "price": 2490,
-      "colors": ["pink", "gray", "black", "cyan"],
+      "size": ["pink", "gray", "black", "cyan"],
       "subcategory": "1-2",
       "title": "product484"
     },
@@ -5009,7 +4937,7 @@
       "id": "485",
       "picture": "https://source.unsplash.com/random",
       "price": 5244,
-      "colors": ["red", "orange", "green", "pink", "white", "black"],
+      "size": ["red", "orange", "green", "pink", "white", "black"],
       "subcategory": "1-3",
       "title": "product485"
     },
@@ -5019,7 +4947,7 @@
       "id": "486",
       "picture": "https://source.unsplash.com/random",
       "price": 1780,
-      "colors": ["purple", "cyan", "black"],
+      "size": ["purple", "cyan", "black"],
       "subcategory": "3-4",
       "title": "product486"
     },
@@ -5029,7 +4957,7 @@
       "id": "487",
       "picture": "https://source.unsplash.com/random",
       "price": 140,
-      "colors": ["purple"],
+      "size": ["purple"],
       "subcategory": "3-2",
       "title": "product487"
     },
@@ -5039,7 +4967,7 @@
       "id": "488",
       "picture": "https://source.unsplash.com/random",
       "price": 6612,
-      "colors": ["purple", "gray", "orange", "green", "yellow"],
+      "size": ["purple", "gray", "orange", "green", "yellow"],
       "subcategory": "2-2",
       "title": "product488"
     },
@@ -5049,7 +4977,7 @@
       "id": "489",
       "picture": "https://source.unsplash.com/random",
       "price": 635,
-      "colors": ["cyan"],
+      "size": ["cyan"],
       "subcategory": "2-2",
       "title": "product489"
     },
@@ -5059,7 +4987,7 @@
       "id": "490",
       "picture": "https://source.unsplash.com/random",
       "price": 221,
-      "colors": ["pink", "black", "gray", "purple", "green"],
+      "size": ["pink", "black", "gray", "purple", "green"],
       "subcategory": "3-4",
       "title": "product490"
     },
@@ -5069,7 +4997,7 @@
       "id": "491",
       "picture": "https://source.unsplash.com/random",
       "price": 6020,
-      "colors": ["white", "orange", "purple", "cyan"],
+      "size": ["white", "orange", "purple", "cyan"],
       "subcategory": "3-1",
       "title": "product491"
     },
@@ -5079,7 +5007,7 @@
       "id": "492",
       "picture": "https://source.unsplash.com/random",
       "price": 8899,
-      "colors": ["red", "green", "gray"],
+      "size": ["red", "green", "gray"],
       "subcategory": "2-3",
       "title": "product492"
     },
@@ -5089,7 +5017,7 @@
       "id": "493",
       "picture": "https://source.unsplash.com/random",
       "price": 4028,
-      "colors": ["cyan", "purple", "gray", "red"],
+      "size": ["cyan", "purple", "gray", "red"],
       "subcategory": "2-2",
       "title": "product493"
     },
@@ -5099,7 +5027,7 @@
       "id": "494",
       "picture": "https://source.unsplash.com/random",
       "price": 2691,
-      "colors": ["purple"],
+      "size": ["purple"],
       "subcategory": "3-3",
       "title": "product494"
     },
@@ -5109,7 +5037,7 @@
       "id": "495",
       "picture": "https://source.unsplash.com/random",
       "price": 7832,
-      "colors": [
+      "size": [
         "pink",
         "cyan",
         "gray",
@@ -5128,7 +5056,7 @@
       "id": "496",
       "picture": "https://source.unsplash.com/random",
       "price": 2900,
-      "colors": ["orange", "black", "cyan", "yellow"],
+      "size": ["orange", "black", "cyan", "yellow"],
       "subcategory": "2-1",
       "title": "product496"
     },
@@ -5138,7 +5066,7 @@
       "id": "497",
       "picture": "https://source.unsplash.com/random",
       "price": 3580,
-      "colors": ["green", "white", "cyan"],
+      "size": ["green", "white", "cyan"],
       "subcategory": "3-1",
       "title": "product497"
     },
@@ -5148,7 +5076,7 @@
       "id": "498",
       "picture": "https://source.unsplash.com/random",
       "price": 8556,
-      "colors": ["gray", "green", "white"],
+      "size": ["gray", "green", "white"],
       "subcategory": "3-3",
       "title": "product498"
     },
@@ -5158,72 +5086,9 @@
       "id": "499",
       "picture": "https://source.unsplash.com/random",
       "price": 7688,
-      "colors": ["red", "cyan", "white", "purple", "yellow"],
+      "size": ["red", "cyan", "white", "purple", "yellow"],
       "subcategory": "1-4",
       "title": "product499"
     }
-  ],
-
-  "comments": [
-    {
-      "id": "1",
-      "productId": "1",
-      "message": "hehe",
-      "rating": 1
-    },
-    {
-      "id": "2",
-      "productId": "2",
-      "rating": 5,
-      "message": "its just my comment"
-    },
-    {
-      "id": "3",
-      "productId": "1",
-      "rating": 2,
-      "message": "good product"
-    },
-    {
-      "id": "4",
-      "productId": "4",
-      "rating": 4,
-      "message": "nice product"
-    },
-    {
-      "id": "5",
-      "productId": "5",
-      "rating": 2,
-      "message": "amazzzzinnnnnng"
-    },
-    {
-      "id": "6",
-      "productId": "6",
-      "rating": 2,
-      "message": "nice product, really!"
-    },
-    {
-      "id": "7",
-      "productId": "7",
-      "rating": 3,
-      "message": "just my comment..."
-    },
-    {
-      "id": "8",
-      "productId": "10",
-      "rating": 5,
-      "message": "another comment"
-    },
-    {
-      "id": "9",
-      "productId": "9",
-      "rating": 4,
-      "message": "great"
-    },
-    {
-      "id": "10",
-      "productId": "8",
-      "rating": 1,
-      "message": "not good.."
-    }
   ]
-}
+]

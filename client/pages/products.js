@@ -1,10 +1,10 @@
 import Layout from "../components/Layout"
-import TestPage from "../components/TestPage"
+import ProductPage from "../components/ProductPage"
 
 const Test = () => {
   return (
-    <Layout title={"test page"}>
-      <TestPage />
+    <Layout title="Products page">
+      <ProductPage />
     </Layout>
   )
 }

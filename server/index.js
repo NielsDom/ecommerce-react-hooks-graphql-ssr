@@ -11,15 +11,25 @@ const typeDefs = gql`
   }
 
   type Mutation {
-    addProduct(description: String, title: String!, picture: String): Product
+    addProduct(
+      description: String
+      title: String!
+      picture: String
+      price: String
+      subcategory: String
+    ): Product
   }
 
   type Product {
     id: ID!
     title: String!
     picture: String
+    category: String
+    subcategory: String
+    colors: [String]
     description: String
     comments: [Comment!]!
+    price: String
   }
 
   type Comment {
@@ -43,7 +53,10 @@ const resolvers = {
         id: crypto.randomBytes(10).toString("hex"),
         description,
         title,
-        picture
+        picture,
+        price,
+        category,
+        subcategory
       }
       db.products.push(product)
       return product

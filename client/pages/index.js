@@ -7,6 +7,10 @@ const GET_EMAIL = gql`
   {
     products {
       id
+      category
+      subcategory
+      colors
+      price
       title
       picture
       description
