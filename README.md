@@ -1,6 +1,6 @@
 # React Ecommerce GraphQL:
 
-Next.js, SSR, GraphQL, Apollo, Hooks, Material-UI and Mui-Treasury(https://mui-treasury.com/)<br/>
+Next.js, SSR, GraphQL, Apollo, Hooks, Material-UI<br/>
 
 Phase 1: Hardcoded DB + Apollo state management<br/>
 Phase 2: Node & MongoDB & JWT Auth<br/>
