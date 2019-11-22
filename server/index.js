@@ -5,9 +5,10 @@ const db = require("./db.json")
 
 const typeDefs = gql`
   type Query {
-    products: [Product!]!
+    products(limitBestSales: Int): [Product!]!
     product(id: ID!): Product
     comments: [Comment!]!
+    productscategories: [ProductsCategory!]!
   }
 
   type Mutation {
@@ -24,12 +25,23 @@ const typeDefs = gql`
     id: ID!
     title: String!
     picture: String
-    category: String
+    category: ProductsCategory
     subcategory: String
     colors: [String]
     description: String
     comments: [Comment!]!
     price: String
+  }
+
+  type ProductsCategory {
+    id: ID!
+    title: String!
+    subcategories: [Subcategory!]!
+  }
+
+  type Subcategory {
+    id: ID!
+    title: String
   }
 
   type Comment {
@@ -42,9 +54,16 @@ const typeDefs = gql`
 
 const resolvers = {
   Query: {
-    products: () => db.products,
+    products: (root, { limitBestSales }) =>
+      !limitBestSales
+        ? db.products
+        : db.products
+            .sort((y, z) => y.comments.rating - z.comments.rating)
+            .slice(0, limitBestSales),
+
     product: (root, { id }) => db.products.find(product => product.id === id),
-    comments: () => db.comments
+    comments: () => db.comments,
+    productscategories: () => db.productscategories
   },
 
   Mutation: {
@@ -63,7 +82,15 @@ const resolvers = {
     }
   },
   Product: {
-    comments: x => db.comments.filter(message => message.productId === x.id)
+    comments: x => db.comments.filter(message => message.productId === x.id),
+    category: x => db.productscategories.filter(cat => cat.id === x.category)[0]
+  },
+
+  ProductsCategory: {
+    subcategories: x =>
+      db.productssubcategories.filter(
+        subcat => subcat.productcategoryID === x.id
+      )
   }
 }
 

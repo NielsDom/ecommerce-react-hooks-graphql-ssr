@@ -2,32 +2,13 @@ import React, { useEffect } from "react"
 import { withApollo } from "../lib/apollo"
 import gql from "graphql-tag"
 import { useQuery } from "@apollo/react-hooks"
-
-const GET_EMAIL = gql`
-  {
-    products {
-      id
-      category
-      subcategory
-      colors
-      price
-      title
-      picture
-      description
-      comments {
-        id
-        message
-        rating
-      }
-    }
-  }
-`
+import { GET_PRODUCTS } from "../queries/productsQuery"
 
 const Home = () => {
   useEffect(() => {
     console.log("yo")
   }, [])
-  const { loading, error, data } = useQuery(GET_EMAIL)
+  const { loading, error, data } = useQuery(GET_PRODUCTS)
   {
     console.log(data)
   }

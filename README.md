@@ -86,6 +86,21 @@ mutation {
 }
 ```
 
+get categories:
+
+```
+{
+	productscategories {
+    id
+    title
+    subcategories {
+      id
+      title
+    }
+  }
+}
+```
+
 generate products
 
 const arr = []

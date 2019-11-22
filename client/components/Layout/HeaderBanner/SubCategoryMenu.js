@@ -1,6 +1,15 @@
 import { removeArgumentsFromDocument } from "apollo-utilities"
 
-const SubCategoryMenu = () => {
+// {GET_CATEGORIES.productcategories
+//   .filter(cat => cat.id === openMenu)[0]
+//   .subcategories.map(subcat => (
+//     <div className="item" key={subcat.id}>
+//       {subcat.title}
+//     </div>
+//   ))}
+
+const SubCategoryMenu = ({ openMenu, GET_CATEGORIES }) => {
+  console.log("hehehe", GET_CATEGORIES)
   return (
     <div
       style={{
@@ -13,10 +22,13 @@ const SubCategoryMenu = () => {
         width: 140
       }}
     >
-      <div className="item">Subcategory 1</div>
-      <div className="item">Subcategory 2</div>
-      <div className="item">Subcategory 3</div>
-      <div className="item">Subcategory 4</div>
+      {GET_CATEGORIES.filter(
+        cat => cat.id === openMenu.toString()
+      )[0].subcategories.map(subcat => (
+        <div className="item" id={subcat.id}>
+          {subcat.title}
+        </div>
+      ))}
       <style jsx>{`
         .item {
           margin: 10px 0px 10px 0px;

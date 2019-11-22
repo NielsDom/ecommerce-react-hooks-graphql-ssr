@@ -85,7 +85,7 @@ const Header = ({ _openMenu }) => {
           color: white;
           fontsize: 22px;
           height: 100%;
-          margin: 0px 30px 0px 30px;
+          padding: 0px 30px 0px 30px;
         }
         .headerMenu:hover {
           background: #0271b1;

@@ -5,22 +5,7 @@ import gql from "graphql-tag"
 import { useQuery } from "@apollo/react-hooks"
 import Header from "./Header"
 import HeaderBanner from "./HeaderBanner"
-
-const GET_EMAIL = gql`
-  {
-    products {
-      id
-      title
-      picture
-      description
-      comments {
-        id
-        message
-        rating
-      }
-    }
-  }
-`
+import { GET_CATEGORIES } from "../../queries/productsQuery"
 
 const Layout = ({ children, title }) => {
   const [openMenu, setopenMenu] = useState(null)
@@ -31,9 +16,10 @@ const Layout = ({ children, title }) => {
     console.log(openMenu)
   }, [openMenu])
 
-  const { loading, error, data } = useQuery(GET_EMAIL)
+  const { loading, error, data } = useQuery(GET_CATEGORIES)
 
   if (error) return <div>error</div>
+  if (loading) return <div>loading</div>
 
   return (
     <div>
@@ -46,7 +32,12 @@ const Layout = ({ children, title }) => {
         (loading ? (
           <div>Loading...</div>
         ) : (
-          <HeaderBanner _openMenu={_openMenu} openMenu={openMenu} data={data} />
+          <HeaderBanner
+            _openMenu={_openMenu}
+            openMenu={openMenu}
+            GET_CATEGORIES={data.productscategories}
+            data={data}
+          />
         ))}
       {children}
       <style jsx global>{`

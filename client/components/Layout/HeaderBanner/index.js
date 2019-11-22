@@ -1,7 +1,7 @@
 import SubCategoryMenu from "./SubCategoryMenu"
 import SubCategoryProducts from "./SubCategoryProducts"
 
-const HeaderBanner = ({ _openMenu, openMenu, data }) => {
+const HeaderBanner = ({ _openMenu, openMenu, data, GET_CATEGORIES }) => {
   console.log("---- oyo", data)
   return (
     <div
@@ -26,7 +26,7 @@ const HeaderBanner = ({ _openMenu, openMenu, data }) => {
           display: "flex"
         }}
       >
-        <SubCategoryMenu />
+        <SubCategoryMenu GET_CATEGORIES={GET_CATEGORIES} openMenu={openMenu} />
         <SubCategoryProducts openMenu={openMenu} />
       </div>
     </div>
